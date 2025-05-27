@@ -22,11 +22,13 @@ export class InventoryPager extends BaseElement {
     this.showIndividualPricesInput = document.querySelector("#items-page__individual-items");
     this.showIndividualPrices = this.showIndividualPricesInput.checked;
     this.playerFilter = document.querySelector(".items-page__player-filter");
+    this.wantedFilter = document.querySelector(".items-page__wanted-filter");
     this.eventListener(this.searchElement, "input", this.handleSearch.bind(this));
     this.eventListener(this.sortTarget, "change", this.handleSortChange.bind(this));
     this.eventListener(this, "click", this.handleClick.bind(this));
     this.eventListener(this.showIndividualPricesInput, "change", this.handleIndividualPricesChange.bind(this));
     this.eventListener(this.playerFilter, "change", this.handlePlayerFilterChange.bind(this));
+    this.eventListener(this.wantedFilter, "change", this.handleWantedFilterChange.bind(this));
     this.subscribe("items-updated", this.handleUpdatedItems.bind(this));
 
     this.searchElement.searchInput.value = groupData.textFilter;
@@ -54,6 +56,13 @@ export class InventoryPager extends BaseElement {
   handlePlayerFilterChange() {
     const player = this.playerFilter.value;
     groupData.applyPlayerFilter(player);
+    this.maybeRenderPage(this.currentPage, true);
+    this.render();
+  }
+
+  handleWantedFilterChange() {
+    const wanted = this.wantedFilter.value;
+    groupData.applyWantedFilter(wanted);
     this.maybeRenderPage(this.currentPage, true);
     this.render();
   }

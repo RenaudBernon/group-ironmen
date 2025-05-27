@@ -103,5 +103,9 @@ export class InventoryItem extends BaseElement {
 
     return (this.quantity * gePrice).toLocaleString() + "gp";
   }
+
+  get wantedAmount() {
+    return this.item.wantedAmount;
+  }
 }
 customElements.define("inventory-item", InventoryItem);

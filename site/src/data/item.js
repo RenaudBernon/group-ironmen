@@ -66,6 +66,10 @@ export class Item {
     return Item.gePrices[this.id] || 0;
   }
 
+  get wantedAmount() {
+    return Item.itemDetails[this.id].wantedAmount;
+  }
+
   isValid() {
     return this.id > 0;
   }

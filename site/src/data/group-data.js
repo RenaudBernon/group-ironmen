@@ -12,6 +12,7 @@ export class GroupData {
     this.textFilter = "";
     this.textFilters = [""];
     this.playerFilter = "@ALL";
+    this.wantedFilter = "all";
   }
 
   update(groupData) {
@@ -88,7 +89,12 @@ export class GroupData {
           this.groupItems[item.id] = groupItem;
 
           if (applyFilter) {
-            groupItem.visible = this.shouldItemBeVisible(groupItem, this.textFilters, this.playerFilter);
+            groupItem.visible = this.shouldItemBeVisible(
+              groupItem,
+              this.textFilters,
+              this.playerFilter,
+              this.wantedFilter
+            );
           }
 
           pubsub.publish(`item-update:${item.id}`, groupItem);
@@ -159,10 +165,26 @@ export class GroupData {
     return playerFilter === "@ALL" || item.quantities[playerFilter] === undefined || item.quantities[playerFilter] > 0;
   }
 
-  shouldItemBeVisible(item, textFilters, playerFilter) {
+  passesWantedFilter(item, wantedFilter) {
+    if (wantedFilter === "all") {
+      return true;
+    }
+    if (wantedFilter === "off") {
+      return item.wantedAmount == null;
+    }
+    if (wantedFilter === "on") {
+      return item.wantedAmount != null;
+    }
+  }
+
+  shouldItemBeVisible(item, textFilters, playerFilter, wantedFilter) {
     if (!item || !item.quantities) return false;
 
-    return this.passesTextFilter(item, textFilters) && this.passesPlayerFilter(item, playerFilter);
+    return (
+      this.passesTextFilter(item, textFilters) &&
+      this.passesPlayerFilter(item, playerFilter) &&
+      this.passesWantedFilter(item, wantedFilter)
+    );
   }
 
   applyTextFilter(textFilter) {
@@ -171,7 +193,7 @@ export class GroupData {
     this.textFilters = textFilters;
     const items = Object.values(this.groupItems);
     for (const item of items) {
-      item.visible = this.shouldItemBeVisible(item, textFilters, this.playerFilter);
+      item.visible = this.shouldItemBeVisible(item, textFilters, this.playerFilter, this.wantedFilter);
     }
   }
 
@@ -179,7 +201,15 @@ export class GroupData {
     this.playerFilter = playerFilter;
     const items = Object.values(this.groupItems);
     for (const item of items) {
-      item.visible = this.shouldItemBeVisible(item, this.textFilters, playerFilter);
+      item.visible = this.shouldItemBeVisible(item, this.textFilters, playerFilter, this.wantedFilter);
+    }
+  }
+
+  applyWantedFilter(wantedFilter) {
+    this.wantedFilter = wantedFilter;
+    const items = Object.values(this.groupItems);
+    for (const item of items) {
+      item.visible = this.shouldItemBeVisible(item, this.textFilters, this.playerFilter, this.wantedFilter);
     }
   }
 

@@ -69,3 +69,11 @@ inventory-item.rendered {
 .inventory-item__name {
   font-size: 20px;
 }
+
+.inventory-item__excess-quantity {
+  color: #4caf50; /* green */
+}
+
+.inventory-item__insufficient-quantity {
+  color: #f44336; /* red */
+}

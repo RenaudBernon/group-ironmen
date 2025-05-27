@@ -48,13 +48,13 @@ If you are not using the docker-compose, then you will have to set up the Postgr
 You can then run the following to run the image for the frontend, adding the values of the environment variables:
 
 ```sh
-docker run -d -e HOST_URL= chrisleeeee/group-ironmen-tracker-frontend
+docker run -d -e HOST_URL= RenaudBernon/group-ironmen-tracker-frontend
 ```
 
 Same thing for the backend:
 
 ```sh
-docker run -d -e PG_USER= -e PG_PASSWORD= -e PG_HOST= -e PG_PORT=  -e PG_DB= -e BACKEND_SECRET= chrisleeeee/group-ironmen-tracker-backend
+docker run -d -e PG_USER= -e PG_PASSWORD= -e PG_HOST= -e PG_PORT=  -e PG_DB= -e BACKEND_SECRET= RenaudBernon/group-ironmen-tracker-backend
 ```
 
 Check `.env.example` for an explanation on what the value of each environment variable should be.
