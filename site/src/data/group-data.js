@@ -48,7 +48,7 @@ export class GroupData {
           if (groupItem.quantities?.[removedMember]) {
             groupItem.quantity -= groupItem.quantities[removedMember];
 
-            if (groupItem.quantity === 0) {
+            if (groupItem.quantity === 0 && !Item.itemDetails[groupItem.id].wantedAmount) {
               delete this.groupItems[groupItem.id];
             } else {
               delete groupItem.quantities[removedMember];
@@ -66,6 +66,29 @@ export class GroupData {
       updatedAttributes.has("runePouch") ||
       updatedAttributes.has("seedVault");
 
+    if (Item.itemDetails) {
+      for (const [itemId, itemDetails] of Object.entries(Item.itemDetails)) {
+        if (itemDetails.wantedAmount !== undefined) {
+          const id = parseInt(itemId);
+          if (!this.groupItems[id]) {
+            const groupItem = new Item(id, 0);
+            groupItem.quantities = {};
+            for (const member of this.members.values()) {
+              groupItem.quantities[member.name] = 0;
+            }
+            groupItem.visible = this.shouldItemBeVisible(
+              groupItem,
+              this.textFilters,
+              this.playerFilter,
+              this.wantedFilter
+            );
+            this.groupItems[id] = groupItem;
+            anyItemUpdates = true;
+            pubsub.publish(`item-update:${itemId}`, groupItem);
+          }
+        }
+      }
+    }
     const encounteredItemIds = new Set();
     if (receivedItemData) {
       for (const item of this.allItems()) {
@@ -103,7 +126,7 @@ export class GroupData {
       }
 
       for (const item of Object.values(this.groupItems)) {
-        if (!encounteredItemIds.has(item.id)) {
+        if (!encounteredItemIds.has(item.id) && !Item.itemDetails[item.id].wantedAmount) {
           delete this.groupItems[item.id];
           anyItemUpdates = true;
         }
@@ -170,26 +193,35 @@ export class GroupData {
       return true;
     }
     if (wantedFilter === "complete") {
-      return item.wantedAmount <= item.quantity;
+      return item.wantedAmount !== undefined && item.wantedAmount <= item.quantity;
     }
     if (wantedFilter === "incomplete") {
-      return item.wantedAmount > item.quantity;
+      return item.wantedAmount !== undefined && item.wantedAmount > item.quantity;
     }
     if (wantedFilter === "wanted") {
-      return item.wantedAmount != null;
+      return item.wantedAmount !== undefined;
     }
     if (wantedFilter === "unwanted") {
-      return item.wantedAmount == null;
+      return item.wantedAmount === undefined;
     }
   }
 
   shouldItemBeVisible(item, textFilters, playerFilter, wantedFilter) {
     if (!item || !item.quantities) return false;
 
+    // First check if the wanted filter passes
+    const wantedFilterPasses = this.passesWantedFilter(item, wantedFilter);
+
+    // If we're using a non-default wanted filter, and it passes, show the item regardless of other filters
+    if (wantedFilter !== "all" && wantedFilterPasses) {
+      return true;
+    }
+
+    // Otherwise, apply the normal filter logic
     return (
       this.passesTextFilter(item, textFilters) &&
       this.passesPlayerFilter(item, playerFilter) &&
-      this.passesWantedFilter(item, wantedFilter)
+      (wantedFilter === "all" || wantedFilterPasses)
     );
   }
 

@@ -217,7 +217,7 @@ export class InventoryPager extends BaseElement {
 
   itemQuantity(item) {
     if (groupData.playerFilter !== "@ALL") {
-      return item.quantities[groupData.playerFilter];
+      return item.quantities[groupData.playerFilter] || 0;
     }
 
     return item.quantity;

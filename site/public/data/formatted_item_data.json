@@ -64959,6 +64959,7 @@
   },
   "30888": {
     "name": "Yami",
-    "highalch": 0
+    "highalch": 0,
+    "wantedAmount":  5
   }
 }
