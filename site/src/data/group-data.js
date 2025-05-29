@@ -169,11 +169,17 @@ export class GroupData {
     if (wantedFilter === "all") {
       return true;
     }
-    if (wantedFilter === "off") {
-      return item.wantedAmount == null;
+    if (wantedFilter === "complete") {
+      return item.wantedAmount <= item.quantity;
     }
-    if (wantedFilter === "on") {
+    if (wantedFilter === "incomplete") {
+      return item.wantedAmount > item.quantity;
+    }
+    if (wantedFilter === "wanted") {
       return item.wantedAmount != null;
+    }
+    if (wantedFilter === "unwanted") {
+      return item.wantedAmount == null;
     }
   }
 
