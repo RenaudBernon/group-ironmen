@@ -62664,7 +62664,8 @@
   },
   "29796": {
     "name": "Noxious halberd",
-    "highalch": 300000
+    "highalch": 300000,
+    "wantedAmount" : 5
   },
   "29799": {
     "name": "Araxyte fang",
