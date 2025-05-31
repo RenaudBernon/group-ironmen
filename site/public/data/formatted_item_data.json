@@ -38863,7 +38863,7 @@
   "19553": {
     "name": "Amulet of torture",
     "highalch": 121200,
-    "wantedAmount":  5
+    "wantedAmount":  3
   },
   "19556": {
     "name": "Monkey",
@@ -54031,7 +54031,8 @@
   },
   "25975": {
     "name": "Lightbearer",
-    "highalch": 600000
+    "highalch": 600000,
+    "wantedAmount":  5
   },
   "25979": {
     "name": "Keris partisan",
@@ -58055,7 +58056,8 @@
   },
   "27690": {
     "name": "Voidwaker",
-    "highalch": 1200000
+    "highalch": 1200000,
+    "wantedAmount":  5
   },
   "27693": {
     "name": "Ore pack",
@@ -58453,13 +58455,11 @@
   },
   "27869": {
     "name": "Voidwaker",
-    "highalch": 60,
-    "wantedAmount":  5
+    "highalch": 60
   },
   "27870": {
     "name": "Lightbearer",
-    "highalch": 60,
-    "wantedAmount":  5
+    "highalch": 60
   },
   "27871": {
     "name": "Giant bronze dagger",
