@@ -210,7 +210,7 @@ export class GroupData {
     if (!item || !item.quantities) return false;
 
     // First check if the wanted filter passes
-    const wantedFilterPasses = this.passesWantedFilter(item, wantedFilter);
+    const wantedFilterPasses = this.passesTextFilter(item, textFilters) && this.passesWantedFilter(item, wantedFilter);
 
     // If we're using a non-default wanted filter, and it passes, show the item regardless of other filters
     if (wantedFilter !== "all" && wantedFilterPasses) {

@@ -6797,7 +6797,8 @@
   },
   "2577": {
     "name": "Ranger boots",
-    "highalch": 120
+    "highalch": 120,
+    "wantedAmount" : 5
   },
   "2579": {
     "name": "Wizard boots",
@@ -33205,7 +33206,8 @@
   },
   "11920": {
     "name": "Dragon pickaxe",
-    "highalch": 58770
+    "highalch": 58770,
+    "wantedAmount": 10
   },
   "11922": {
     "name": "Lava dragon bonemeal",
@@ -36085,7 +36087,8 @@
   },
   "12899": {
     "name": "Trident of the swamp",
-    "highalch": 47100
+    "highalch": 47100,
+    "wantedAmount": 5
   },
   "12900": {
     "name": "Uncharged toxic trident",
