@@ -32805,7 +32805,8 @@
   },
   "11798": {
     "name": "Godsword blade",
-    "highalch": 450000
+    "highalch": 450000,
+    "wantedAmount": 3
   },
   "11800": {
     "name": "Godsword shards 2 & 3",
@@ -32846,15 +32847,18 @@
   },
   "11818": {
     "name": "Godsword shard 1",
-    "highalch": 150000
+    "highalch": 150000,
+    "wantedAmount" : 3
   },
   "11820": {
     "name": "Godsword shard 2",
-    "highalch": 150000
+    "highalch": 150000,
+    "wantedAmount" : 3
   },
   "11822": {
     "name": "Godsword shard 3",
-    "highalch": 150000
+    "highalch": 150000,
+    "wantedAmount" : 3
   },
   "11824": {
     "name": "Zamorakian spear",
