@@ -58004,7 +58004,8 @@
   },
   "27655": {
     "name": "Webweaver bow",
-    "highalch": 105000
+    "highalch": 105000,
+    "wantedAmount" : 1
   },
   "27657": {
     "name": "Ursine chainmace (u)",
@@ -58020,7 +58021,8 @@
   },
   "27665": {
     "name": "Accursed sceptre",
-    "highalch": 105000
+    "highalch": 105000,
+    "wantedAmount" : 3
   },
   "27667": {
     "name": "Claws of callisto",
