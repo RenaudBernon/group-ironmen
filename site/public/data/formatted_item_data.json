@@ -46498,7 +46498,8 @@
   },
   "22550": {
     "name": "Craw's bow",
-    "highalch": 72000
+    "highalch": 72000,
+    "wantedAmount" : 1
   },
   "22552": {
     "name": "Thammaron's sceptre (u)",
@@ -46506,7 +46507,8 @@
   },
   "22555": {
     "name": "Thammaron's sceptre",
-    "highalch": 72000
+    "highalch": 72000,
+    "wantedAmount": 3
   },
   "22557": {
     "name": "Amulet of avarice",
@@ -58030,11 +58032,13 @@
   },
   "27670": {
     "name": "Fangs of venenatis",
-    "highalch": 48000
+    "highalch": 48000,
+    "wantedAmount" : 1
   },
   "27673": {
     "name": "Skull of vet'ion",
-    "highalch": 48000
+    "highalch": 48000,
+    "wantedAmount" : 3
   },
   "27676": {
     "name": "Accursed sceptre (au)",
