@@ -10,7 +10,7 @@
       <span>${this.gePrice}</span>
       ${this.wantedAmount != null ? `
       <span>Wanted</span>
-      <span class="${this.quantity > this.wantedAmount ? 'inventory-item__excess-quantity' : 'inventory-item__insufficient-quantity'}">${this.wantedAmount}</span>
+      <span class="${this.quantity >= this.wantedAmount ? 'inventory-item__excess-quantity' : 'inventory-item__insufficient-quantity'}">${this.wantedAmount}</span>
       ` : ''}
     </div>
   </div>

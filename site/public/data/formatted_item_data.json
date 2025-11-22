@@ -32793,7 +32793,7 @@
     "highalch": 600003
   },
   "11793": {
-    "name": "Agility jump",
+    "name": "Agility strength",
     "highalch": 0
   },
   "11794": {
@@ -57079,8 +57079,7 @@
   },
   "27275": {
     "name": "Tumeken's shadow",
-    "highalch": 4200000,
-    "wantedAmount":  5
+    "highalch": 4200000
   },
   "27277": {
     "name": "Tumeken's shadow (uncharged)",
@@ -61593,7 +61592,7 @@
   },
   "29325": {
     "name": "House keys",
-    "highalch": 0,
+    "highalch": 300,
     "stacks": [
       [
         2,
@@ -64458,11 +64457,11 @@
   },
   "30616": {
     "name": "Bounty supply crate (manta ray)",
-    "highalch": 6000
+    "highalch": 0
   },
   "30619": {
     "name": "Bounty supply crate (anglerfish)",
-    "highalch": 6000
+    "highalch": 0
   },
   "30622": {
     "name": "Bran",
@@ -64776,27 +64775,27 @@
   },
   "30783": {
     "name": "Purifying sigil (left)",
-    "highalch": 5700
+    "highalch": 0
   },
   "30785": {
     "name": "Purifying sigil (right)",
-    "highalch": 5700
+    "highalch": 0
   },
   "30787": {
     "name": "Purifying sigil (middle)",
-    "highalch": 5700
+    "highalch": 0
   },
   "30789": {
     "name": "Purifying sigil (top)",
-    "highalch": 5700
+    "highalch": 0
   },
   "30791": {
     "name": "Purifying sigil (bottom)",
-    "highalch": 5700
+    "highalch": 0
   },
   "30793": {
     "name": "Purifying sigil",
-    "highalch": 5700
+    "highalch": 0
   },
   "30795": {
     "name": "Barrel of demonic tallow (full)",
@@ -64828,47 +64827,47 @@
   },
   "30810": {
     "name": "Contract of glyphic attenuation",
-    "highalch": 45000
+    "highalch": 0
   },
   "30813": {
     "name": "Contract of sensory clouding",
-    "highalch": 45000
+    "highalch": 0
   },
   "30816": {
     "name": "Contract of bloodied blows",
-    "highalch": 45000
+    "highalch": 0
   },
   "30819": {
     "name": "Contract of divine severance",
-    "highalch": 45000
+    "highalch": 0
   },
   "30822": {
     "name": "Contract of forfeit breath",
-    "highalch": 45000
+    "highalch": 0
   },
   "30825": {
     "name": "Contract of oathplate acquisition",
-    "highalch": 45000
+    "highalch": 0
   },
   "30828": {
     "name": "Contract of shard acquisition",
-    "highalch": 45000
+    "highalch": 0
   },
   "30831": {
     "name": "Contract of catalyst acquisition",
-    "highalch": 45000
+    "highalch": 0
   },
   "30834": {
     "name": "Contract of worm acquisition",
-    "highalch": 45000
+    "highalch": 0
   },
   "30837": {
     "name": "Contract of harmony acquisition",
-    "highalch": 45000
+    "highalch": 0
   },
   "30840": {
     "name": "Contract of familiar acquisition",
-    "highalch": 45000
+    "highalch": 0
   },
   "30843": {
     "name": "Aether rune",
@@ -64973,5 +64972,669 @@
   "30888": {
     "name": "Yami",
     "highalch": 0
+  },
+  "30890": {
+    "name": "Rotten turnip",
+    "highalch": 0
+  },
+  "30891": {
+    "name": "Keris partisan of amascut",
+    "highalch": 180000
+  },
+  "30893": {
+    "name": "Jewel of amascut",
+    "highalch": 180000
+  },
+  "30895": {
+    "name": "Steel ring",
+    "highalch": 9000
+  },
+  "30898": {
+    "name": "Giant bones",
+    "highalch": 0
+  },
+  "30900": {
+    "name": "Shark lure",
+    "highalch": 6
+  },
+  "30902": {
+    "name": "Minor beginner scroll case",
+    "highalch": 0
+  },
+  "30904": {
+    "name": "Major beginner scroll case",
+    "highalch": 0
+  },
+  "30906": {
+    "name": "Minor easy scroll case",
+    "highalch": 0
+  },
+  "30908": {
+    "name": "Major easy scroll case",
+    "highalch": 0
+  },
+  "30910": {
+    "name": "Minor medium scroll case",
+    "highalch": 0
+  },
+  "30912": {
+    "name": "Major medium scroll case",
+    "highalch": 0
+  },
+  "30914": {
+    "name": "Minor hard scroll case",
+    "highalch": 0
+  },
+  "30916": {
+    "name": "Major hard scroll case",
+    "highalch": 0
+  },
+  "30918": {
+    "name": "Minor elite scroll case",
+    "highalch": 0
+  },
+  "30920": {
+    "name": "Major elite scroll case",
+    "highalch": 0
+  },
+  "30922": {
+    "name": "Minor master scroll case",
+    "highalch": 0
+  },
+  "30924": {
+    "name": "Major master scroll case",
+    "highalch": 0
+  },
+  "30926": {
+    "name": "Mimic scroll case",
+    "highalch": 0
+  },
+  "30928": {
+    "name": "Clue scroll (easy)",
+    "highalch": 12
+  },
+  "30929": {
+    "name": "Clue scroll (hard)",
+    "highalch": 12
+  },
+  "30930": {
+    "name": "Challenge scroll (hard)",
+    "highalch": 12
+  },
+  "30931": {
+    "name": "Clue scroll (hard)",
+    "highalch": 12
+  },
+  "30932": {
+    "name": "Clue scroll (elite)",
+    "highalch": 12
+  },
+  "30933": {
+    "name": "Clue scroll (medium)",
+    "highalch": 12
+  },
+  "30934": {
+    "name": "Challenge scroll (medium)",
+    "highalch": 12
+  },
+  "30935": {
+    "name": "Clue scroll (medium)",
+    "highalch": 12
+  },
+  "30936": {
+    "name": "Wet fabric scrap",
+    "highalch": 0
+  },
+  "30937": {
+    "name": "Caerula berries",
+    "highalch": 18
+  },
+  "30939": {
+    "name": "Mind mender",
+    "highalch": 18
+  },
+  "30941": {
+    "name": "Coin purse",
+    "highalch": 0
+  },
+  "30942": {
+    "name": "Empty coin purse",
+    "highalch": 18
+  },
+  "30943": {
+    "name": "Sandy coin purse",
+    "highalch": 18
+  },
+  "30944": {
+    "name": "Makeshift blackjack",
+    "highalch": 0
+  },
+  "30945": {
+    "name": "Branch",
+    "highalch": 18
+  },
+  "30947": {
+    "name": "Potato sack",
+    "highalch": 0
+  },
+  "30949": {
+    "name": "Emissary scroll",
+    "highalch": 0
+  },
+  "30950": {
+    "name": "Canvas piece",
+    "highalch": 0
+  },
+  "30951": {
+    "name": "Key",
+    "highalch": 18
+  },
+  "30952": {
+    "name": "Stone tablet",
+    "highalch": 18
+  },
+  "30953": {
+    "name": "Stone tablet",
+    "highalch": 18
+  },
+  "30954": {
+    "name": "Stone tablet",
+    "highalch": 18
+  },
+  "30955": {
+    "name": "Arkan blade",
+    "highalch": 150000
+  },
+  "30957": {
+    "name": "Earthbound tecpatl",
+    "highalch": 18000
+  },
+  "30960": {
+    "name": "Antique lamp",
+    "highalch": 30
+  },
+  "30961": {
+    "name": "Keystone fragment",
+    "highalch": 0
+  },
+  "30962": {
+    "name": "Kuhu essence",
+    "highalch": 0
+  },
+  "30963": {
+    "name": "Ancient roots",
+    "highalch": 0
+  },
+  "30964": {
+    "name": "Root kindling",
+    "highalch": 0
+  },
+  "30965": {
+    "name": "Knife blade",
+    "highalch": 0
+  },
+  "30966": {
+    "name": "Ancient teleporter",
+    "highalch": 0
+  },
+  "30967": {
+    "name": "Large egg",
+    "highalch": 0
+  },
+  "30968": {
+    "name": "Dragon egg",
+    "highalch": 18
+  },
+  "30969": {
+    "name": "Jaguar egg",
+    "highalch": 18
+  },
+  "30970": {
+    "name": "Egg",
+    "highalch": 18
+  },
+  "30973": {
+    "name": "Alan's bones",
+    "highalch": 30
+  },
+  "30975": {
+    "name": "Alan's bonemeal",
+    "highalch": 0
+  },
+  "30977": {
+    "name": "Damiana leaves",
+    "highalch": 2
+  },
+  "30979": {
+    "name": "Damiana water",
+    "highalch": 2
+  },
+  "30981": {
+    "name": "Damiana tea",
+    "highalch": 2
+  },
+  "30983": {
+    "name": "Damiana tea",
+    "highalch": 2
+  },
+  "30985": {
+    "name": "Cup of tea",
+    "highalch": 6
+  },
+  "30987": {
+    "name": "Cup of tea",
+    "highalch": 6
+  },
+  "30989": {
+    "name": "Acatzin's axe",
+    "highalch": 0
+  },
+  "30990": {
+    "name": "Acatzin's axe",
+    "highalch": 0
+  },
+  "30991": {
+    "name": "Kite shield",
+    "highalch": 0
+  },
+  "30992": {
+    "name": "Dungeon entrance",
+    "highalch": 0
+  },
+  "30993": {
+    "name": "Custodian stalker",
+    "highalch": 0
+  },
+  "30994": {
+    "name": "Custodian stalker",
+    "highalch": 0
+  },
+  "30995": {
+    "name": "Custodian stalker",
+    "highalch": 0
+  },
+  "30997": {
+    "name": "Events tool",
+    "highalch": 0
+  },
+  "30998": {
+    "name": "Atlatl dart tips",
+    "highalch": 147,
+    "stacks": [
+      [
+        2,
+        31000
+      ],
+      [
+        3,
+        31001
+      ],
+      [
+        4,
+        31002
+      ],
+      [
+        5,
+        31003
+      ]
+    ]
+  },
+  "31004": {
+    "name": "Atlatl dart shaft",
+    "highalch": 132,
+    "stacks": [
+      [
+        2,
+        31006
+      ],
+      [
+        3,
+        31007
+      ],
+      [
+        4,
+        31008
+      ],
+      [
+        5,
+        31009
+      ]
+    ]
+  },
+  "31010": {
+    "name": "Headless atlatl dart",
+    "highalch": 147,
+    "stacks": [
+      [
+        2,
+        31012
+      ],
+      [
+        3,
+        31013
+      ],
+      [
+        4,
+        31014
+      ],
+      [
+        5,
+        31015
+      ]
+    ]
+  },
+  "31016": {
+    "name": "Sacraments of ent folk",
+    "highalch": 0
+  },
+  "31018": {
+    "name": "Ent seed",
+    "highalch": 1,
+    "stacks": [
+      [
+        2,
+        31020
+      ],
+      [
+        3,
+        31021
+      ],
+      [
+        20,
+        31023
+      ]
+    ]
+  },
+  "31024": {
+    "name": "Greenman carving",
+    "highalch": 5547
+  },
+  "31027": {
+    "name": "Greenman statue",
+    "highalch": 5547
+  },
+  "31030": {
+    "name": "Greenman carving",
+    "highalch": 0
+  },
+  "31031": {
+    "name": "Greenman statue",
+    "highalch": 0
+  },
+  "31032": {
+    "name": "Ent branch",
+    "highalch": 132
+  },
+  "31034": {
+    "name": "Greenman mask",
+    "highalch": 0
+  },
+  "31037": {
+    "name": "Greenman mask (normal)",
+    "highalch": 0
+  },
+  "31038": {
+    "name": "Greenman mask (oak)",
+    "highalch": 0
+  },
+  "31039": {
+    "name": "Greenman mask (willow)",
+    "highalch": 0
+  },
+  "31040": {
+    "name": "Greenman mask (maple)",
+    "highalch": 0
+  },
+  "31041": {
+    "name": "Greenman mask (yew)",
+    "highalch": 0
+  },
+  "31042": {
+    "name": "Greenman mask (magic)",
+    "highalch": 0
+  },
+  "31043": {
+    "name": "Fletching knife",
+    "highalch": 3000
+  },
+  "31045": {
+    "name": "Bale of flax",
+    "highalch": 75
+  },
+  "31047": {
+    "name": "Dirty arrowtips",
+    "highalch": 9
+  },
+  "31049": {
+    "name": "Redwood hiking staff",
+    "highalch": 240
+  },
+  "31052": {
+    "name": "Bow string spool",
+    "highalch": 1200
+  },
+  "31054": {
+    "name": "Vale offerings",
+    "highalch": 0,
+    "stacks": [
+      [
+        100,
+        31056
+      ],
+      [
+        500,
+        31057
+      ],
+      [
+        1000,
+        31058
+      ]
+    ]
+  },
+  "31071": {
+    "name": "Letter",
+    "highalch": 6
+  },
+  "31073": {
+    "name": "Letter",
+    "highalch": 6
+  },
+  "31075": {
+    "name": "Alan's blessed bones",
+    "highalch": 0
+  },
+  "31077": {
+    "name": "On migration patterns",
+    "highalch": 18
+  },
+  "31079": {
+    "name": "Auburn valley ecological reports",
+    "highalch": 18
+  },
+  "31081": {
+    "name": "Antler guard",
+    "highalch": 60000
+  },
+  "31084": {
+    "name": "Alchemist's signet",
+    "highalch": 3000
+  },
+  "31086": {
+    "name": "Broken antler",
+    "highalch": 31
+  },
+  "31088": {
+    "name": "Avernic treads",
+    "highalch": 115200
+  },
+  "31091": {
+    "name": "Avernic treads (pr)",
+    "highalch": 115200
+  },
+  "31092": {
+    "name": "Avernic treads (pe)",
+    "highalch": 115200
+  },
+  "31093": {
+    "name": "Avernic treads (et)",
+    "highalch": 115200
+  },
+  "31094": {
+    "name": "Avernic treads (pr)(pe)",
+    "highalch": 115200
+  },
+  "31095": {
+    "name": "Avernic treads (pr)(et)",
+    "highalch": 115200
+  },
+  "31096": {
+    "name": "Avernic treads (pe)(et)",
+    "highalch": 115200
+  },
+  "31097": {
+    "name": "Avernic treads (max)",
+    "highalch": 115200
+  },
+  "31099": {
+    "name": "Mokhaiotl waystone",
+    "highalch": 6000,
+    "stacks": [
+      [
+        2,
+        31102
+      ],
+      [
+        3,
+        31103
+      ],
+      [
+        4,
+        31104
+      ],
+      [
+        5,
+        31105
+      ]
+    ]
+  },
+  "31106": {
+    "name": "Confliction gauntlets",
+    "highalch": 240000
+  },
+  "31109": {
+    "name": "Mokhaiotl cloth",
+    "highalch": 120000
+  },
+  "31111": {
+    "name": "Demon tear",
+    "highalch": 300
+  },
+  "31113": {
+    "name": "Eye of ayak",
+    "highalch": 3600000
+  },
+  "31115": {
+    "name": "Eye of ayak (uncharged)",
+    "highalch": 3600000
+  },
+  "31117": {
+    "name": "Orange",
+    "highalch": 6
+  },
+  "31121": {
+    "name": "Old letter",
+    "highalch": 6
+  },
+  "31123": {
+    "name": "Token",
+    "highalch": 73
+  },
+  "31124": {
+    "name": "Token",
+    "highalch": 73
+  },
+  "31125": {
+    "name": "Token",
+    "highalch": 73
+  },
+  "31126": {
+    "name": "Token",
+    "highalch": 73
+  },
+  "31127": {
+    "name": "Token",
+    "highalch": 73
+  },
+  "31128": {
+    "name": "Blueberry muffin",
+    "highalch": 24
+  },
+  "31130": {
+    "name": "Dom",
+    "highalch": 0
+  },
+  "31132": {
+    "name": "Dinh's blazing bulwark",
+    "highalch": 750000
+  },
+  "31133": {
+    "name": "Venator bow",
+    "highalch": 450000
+  },
+  "31134": {
+    "name": "Agility swing",
+    "highalch": 0
+  },
+  "31135": {
+    "name": "Agility swing",
+    "highalch": 0
+  },
+  "31136": {
+    "name": "Blood moon armour set",
+    "highalch": 87000
+  },
+  "31139": {
+    "name": "Blue moon armour set",
+    "highalch": 87000
+  },
+  "31142": {
+    "name": "Eclipse moon armour set",
+    "highalch": 87000
+  },
+  "31145": {
+    "name": "Torva armour set",
+    "highalch": 87000
+  },
+  "31148": {
+    "name": "Virtus armour set",
+    "highalch": 87000
+  },
+  "31151": {
+    "name": "Rock-shell armour set",
+    "highalch": 87000
+  },
+  "31154": {
+    "name": "Skeletal armour set",
+    "highalch": 87000
+  },
+  "31157": {
+    "name": "Spined armour set",
+    "highalch": 87000
+  },
+  "31160": {
+    "name": "Swampbark armour set",
+    "highalch": 87000
+  },
+  "31163": {
+    "name": "Bloodbark armour set",
+    "highalch": 87000
+  },
+  "31166": {
+    "name": "Mixed hide armour set",
+    "highalch": 87000
+  },
+  "31169": {
+    "name": "Hueycoatl hide armour set",
+    "highalch": 87000
   }
 }
