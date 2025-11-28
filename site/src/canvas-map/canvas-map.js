@@ -55,12 +55,12 @@ export class CanvasMap extends BaseElement {
         progress: 1,
       }),
       zoom: new Animation({
-        current: 1,
-        target: 1,
-        progress: 1,
+        current: 0.5,
+        target: 0.5,
+        progress: 0.5,
       }),
       maxZoom: 6,
-      minZoom: 1,
+      minZoom: 0.5,
       isDragging: false,
     };
     this.cursor = {
@@ -384,7 +384,7 @@ export class CanvasMap extends BaseElement {
     const groupedByPlane = [[], [], [], []];
     for (const tileMarker of markers) {
       if (this.isValidCoordinates(tileMarker?.coordinates)) {
-        groupedByPlane[tileMarker.coordinates.plane].push(tileMarker);
+        groupedByPlane[tileMarker.coordinates.plane]?.push(tileMarker);
       }
     }
 
@@ -425,17 +425,21 @@ export class CanvasMap extends BaseElement {
         for (const [spriteIndex, coordinates] of Object.entries(locations)) {
           for (let i = 0; i < coordinates.length; i += 2) {
             const [x, y] = this.gamePositionToCanvas(coordinates[i], coordinates[i + 1]);
-            this.ctx.drawImage(
-              this.locationIconsSheet,
-              imageSize * spriteIndex,
-              0,
-              imageSize,
-              imageSize,
-              Math.round(x - shift),
-              Math.round(y - shift),
-              destinationSize,
-              destinationSize
-            );
+            try {
+              this.ctx.drawImage(
+                this.locationIconsSheet,
+                imageSize * spriteIndex,
+                0,
+                imageSize,
+                imageSize,
+                Math.round(x - shift),
+                Math.round(y - shift),
+                destinationSize,
+                destinationSize
+              );
+            } catch (ex) {
+              console.error(`failed to draw map icon ${spriteIndex} ${coordinates}`, ex);
+            }
           }
         }
       }
@@ -471,7 +475,11 @@ export class CanvasMap extends BaseElement {
               const height = mapLabelImage.height / scale;
               const shiftX = width / 2;
 
-              this.ctx.drawImage(mapLabelImage, Math.round(x - shiftX), y, Math.round(width), Math.round(height));
+              try {
+                this.ctx.drawImage(mapLabelImage, Math.round(x - shiftX), y, Math.round(width), Math.round(height));
+              } catch (ex) {
+                console.error(`failed to draw map image label ${labelId}`, ex);
+              }
             } else if (!mapLabelImage.onload) {
               mapLabelImage.onload = () => {
                 mapLabelImage.loaded = true;
@@ -498,7 +506,7 @@ export class CanvasMap extends BaseElement {
       for (let tileY = top; tileY > bottom; --tileY) {
         const i = this.cantor(tileX, tileY);
         const tileWorldY = tileY * imageSize;
-        if (this.validTiles && !this.validTiles[this.plane - 1].has(i)) {
+        if (this.validTiles && !this.validTiles[this.plane - 1]?.has(i)) {
           this.ctx.clearRect(tileWorldX, -tileWorldY, imageSize, imageSize);
           continue;
         }
@@ -527,7 +535,11 @@ export class CanvasMap extends BaseElement {
               // around the tiles.
               this.ctx.clearRect(tileWorldX, -tileWorldY, imageSize, imageSize);
             }
-            this.ctx.drawImage(tile, tileWorldX, -tileWorldY);
+            try {
+              this.ctx.drawImage(tile, tileWorldX, -tileWorldY);
+            } catch (ex) {
+              console.error(`failed to draw map tile ${this.plane - 1}_${tileX}_${tileY}`, ex);
+            }
           } catch {}
         } else if (!tile.onload) {
           tile.onload = () => {
