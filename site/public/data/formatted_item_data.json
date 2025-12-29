@@ -8,7 +8,7 @@
     "highalch": 0
   },
   "2": {
-    "name": "Cannonball",
+    "name": "Steel cannonball",
     "highalch": 3
   },
   "3": {
@@ -6797,8 +6797,7 @@
   },
   "2577": {
     "name": "Ranger boots",
-    "highalch": 120,
-    "wantedAmount" : 5
+    "highalch": 120
   },
   "2579": {
     "name": "Wizard boots",
@@ -18287,7 +18286,7 @@
     "highalch": 6
   },
   "6675": {
-    "name": "An empty box",
+    "name": "Empty fish food box",
     "highalch": 0
   },
   "6677": {
@@ -20631,39 +20630,39 @@
     "highalch": 0
   },
   "7518": {
-    "name": "Crab meat",
+    "name": "Giant crab meat",
     "highalch": 0
   },
   "7519": {
-    "name": "Crab meat",
+    "name": "Giant crab meat",
     "highalch": 0
   },
   "7520": {
-    "name": "Burnt crab meat",
+    "name": "Burnt giant crab meat",
     "highalch": 0
   },
   "7521": {
-    "name": "Cooked crab meat",
+    "name": "Cooked giant crab meat",
     "highalch": 30
   },
   "7523": {
-    "name": "Cooked crab meat",
+    "name": "Cooked giant crab meat",
     "highalch": 24
   },
   "7524": {
-    "name": "Cooked crab meat",
+    "name": "Cooked giant crab meat",
     "highalch": 18
   },
   "7525": {
-    "name": "Cooked crab meat",
+    "name": "Cooked giant crab meat",
     "highalch": 12
   },
   "7526": {
-    "name": "Cooked crab meat",
+    "name": "Cooked giant crab meat",
     "highalch": 6
   },
   "7527": {
-    "name": "Ground crab meat",
+    "name": "Ground giant crab meat",
     "highalch": 0
   },
   "7528": {
@@ -32212,12 +32211,56 @@
     "name": "Feather",
     "highalch": 0
   },
+  "11527": {
+    "name": "Mausoleum bridge repair",
+    "highalch": 0
+  },
+  "11547": {
+    "name": "Water pump",
+    "highalch": 0
+  },
+  "11548": {
+    "name": "Cooking pot",
+    "highalch": 0
+  },
+  "11549": {
+    "name": "Pottery wheel",
+    "highalch": 0
+  },
+  "11550": {
+    "name": "Loom",
+    "highalch": 0
+  },
+  "11551": {
+    "name": "Pottery oven",
+    "highalch": 0
+  },
+  "11552": {
+    "name": "Rowboat",
+    "highalch": 0
+  },
+  "11553": {
+    "name": "Furnace",
+    "highalch": 0
+  },
+  "11574": {
+    "name": "Mounted giant blue krill",
+    "highalch": 0
+  },
   "11578": {
     "name": "Mounted harpoonfish",
     "highalch": 0
   },
+  "11580": {
+    "name": "Mounted golden haddock",
+    "highalch": 0
+  },
   "11599": {
     "name": "Oak mounted fish display",
+    "highalch": 0
+  },
+  "11600": {
+    "name": "Mounted orangefin",
     "highalch": 0
   },
   "11601": {
@@ -32228,12 +32271,36 @@
     "name": "Teak mounted fish display",
     "highalch": 0
   },
+  "11604": {
+    "name": "Mounted halibut",
+    "highalch": 0
+  },
+  "11605": {
+    "name": "Mounted purplefin",
+    "highalch": 0
+  },
+  "11606": {
+    "name": "Mounted marlin",
+    "highalch": 0
+  },
   "11628": {
     "name": "Ava's device",
     "highalch": 0
   },
   "11640": {
     "name": "Book of knowledge",
+    "highalch": 0
+  },
+  "11645": {
+    "name": "Spinning wheel",
+    "highalch": 0
+  },
+  "11646": {
+    "name": "Anvil",
+    "highalch": 0
+  },
+  "11647": {
+    "name": "Bank chest",
     "highalch": 0
   },
   "11656": {
@@ -32806,8 +32873,7 @@
   },
   "11798": {
     "name": "Godsword blade",
-    "highalch": 450000,
-    "wantedAmount": 3
+    "highalch": 450000
   },
   "11800": {
     "name": "Godsword shards 2 & 3",
@@ -32819,8 +32885,7 @@
   },
   "11804": {
     "name": "Bandos godsword",
-    "highalch": 750000,
-    "wantedAmount":  5
+    "highalch": 750000
   },
   "11806": {
     "name": "Saradomin godsword",
@@ -32848,18 +32913,15 @@
   },
   "11818": {
     "name": "Godsword shard 1",
-    "highalch": 150000,
-    "wantedAmount" : 3
+    "highalch": 150000
   },
   "11820": {
     "name": "Godsword shard 2",
-    "highalch": 150000,
-    "wantedAmount" : 3
+    "highalch": 150000
   },
   "11822": {
     "name": "Godsword shard 3",
-    "highalch": 150000,
-    "wantedAmount" : 3
+    "highalch": 150000
   },
   "11824": {
     "name": "Zamorakian spear",
@@ -32879,18 +32941,15 @@
   },
   "11832": {
     "name": "Bandos chestplate",
-    "highalch": 174006,
-    "wantedAmount":  5
+    "highalch": 174006
   },
   "11834": {
     "name": "Bandos tassets",
-    "highalch": 173946,
-    "wantedAmount":  5
+    "highalch": 173946
   },
   "11836": {
     "name": "Bandos boots",
-    "highalch": 173406,
-    "wantedAmount":  5
+    "highalch": 173406
   },
   "11838": {
     "name": "Saradomin sword",
@@ -32898,8 +32957,7 @@
   },
   "11840": {
     "name": "Dragon boots",
-    "highalch": 12000,
-    "wantedAmount":  1
+    "highalch": 12000
   },
   "11842": {
     "name": "Knight's notes",
@@ -33109,8 +33167,7 @@
   },
   "11889": {
     "name": "Zamorakian hasta",
-    "highalch": 180000,
-    "wantedAmount":  4
+    "highalch": 180000
   },
   "11891": {
     "name": "Saradomin banner",
@@ -33206,8 +33263,7 @@
   },
   "11920": {
     "name": "Dragon pickaxe",
-    "highalch": 58770,
-    "wantedAmount": 10
+    "highalch": 58770
   },
   "11922": {
     "name": "Lava dragon bonemeal",
@@ -36087,8 +36143,7 @@
   },
   "12899": {
     "name": "Trident of the swamp",
-    "highalch": 47100,
-    "wantedAmount": 5
+    "highalch": 47100
   },
   "12900": {
     "name": "Uncharged toxic trident",
@@ -36148,8 +36203,7 @@
   },
   "12926": {
     "name": "Toxic blowpipe",
-    "highalch": 72000,
-    "wantedAmount":  5
+    "highalch": 72000
   },
   "12927": {
     "name": "Serpentine visage",
@@ -36989,18 +37043,15 @@
   },
   "13227": {
     "name": "Eternal crystal",
-    "highalch": 27000,
-    "wantedAmount":  4
+    "highalch": 27000
   },
   "13229": {
     "name": "Pegasian crystal",
-    "highalch": 27000,
-    "wantedAmount":  5
+    "highalch": 27000
   },
   "13231": {
     "name": "Primordial crystal",
-    "highalch": 27000,
-    "wantedAmount":  1
+    "highalch": 27000
   },
   "13233": {
     "name": "Smouldering stone",
@@ -37008,18 +37059,15 @@
   },
   "13235": {
     "name": "Eternal boots",
-    "highalch": 45000,
-    "wantedAmount":  5
+    "highalch": 45000
   },
   "13237": {
     "name": "Pegasian boots",
-    "highalch": 45000,
-    "wantedAmount":  5
+    "highalch": 45000
   },
   "13239": {
     "name": "Primordial boots",
-    "highalch": 45000,
-    "wantedAmount":  5
+    "highalch": 45000
   },
   "13241": {
     "name": "Infernal axe",
@@ -38847,23 +38895,19 @@
   },
   "19544": {
     "name": "Tormented bracelet",
-    "highalch": 120600,
-    "wantedAmount":  5
+    "highalch": 120600
   },
   "19547": {
     "name": "Necklace of anguish",
-    "highalch": 121200,
-    "wantedAmount":  5
+    "highalch": 121200
   },
   "19550": {
     "name": "Ring of suffering",
-    "highalch": 120600,
-    "wantedAmount":  5
+    "highalch": 120600
   },
   "19553": {
     "name": "Amulet of torture",
-    "highalch": 121200,
-    "wantedAmount":  3
+    "highalch": 121200
   },
   "19556": {
     "name": "Monkey",
@@ -38906,7 +38950,7 @@
     "highalch": 0
   },
   "19570": {
-    "name": "Bronze javelin heads",
+    "name": "Bronze javelin tips",
     "highalch": 15,
     "stacks": [
       [
@@ -38928,7 +38972,7 @@
     ]
   },
   "19572": {
-    "name": "Iron javelin heads",
+    "name": "Iron javelin tips",
     "highalch": 21,
     "stacks": [
       [
@@ -38950,7 +38994,7 @@
     ]
   },
   "19574": {
-    "name": "Steel javelin heads",
+    "name": "Steel javelin tips",
     "highalch": 54,
     "stacks": [
       [
@@ -38972,7 +39016,7 @@
     ]
   },
   "19576": {
-    "name": "Mithril javelin heads",
+    "name": "Mithril javelin tips",
     "highalch": 99,
     "stacks": [
       [
@@ -38994,7 +39038,7 @@
     ]
   },
   "19578": {
-    "name": "Adamant javelin heads",
+    "name": "Adamant javelin tips",
     "highalch": 264,
     "stacks": [
       [
@@ -39016,7 +39060,7 @@
     ]
   },
   "19580": {
-    "name": "Rune javelin heads",
+    "name": "Rune javelin tips",
     "highalch": 810,
     "stacks": [
       [
@@ -39038,7 +39082,7 @@
     ]
   },
   "19582": {
-    "name": "Dragon javelin heads",
+    "name": "Dragon javelin tips",
     "highalch": 1170,
     "stacks": [
       [
@@ -42401,8 +42445,7 @@
   },
   "20997": {
     "name": "Twisted bow",
-    "highalch": 2400000,
-    "wantedAmount":  5
+    "highalch": 2400000
   },
   "21000": {
     "name": "Twisted buckler",
@@ -42410,13 +42453,11 @@
   },
   "21003": {
     "name": "Elder maul",
-    "highalch": 300006,
-    "wantedAmount":  5
+    "highalch": 300006
   },
   "21006": {
     "name": "Kodai wand",
-    "highalch": 90000,
-    "wantedAmount":  5
+    "highalch": 90000
   },
   "21009": {
     "name": "Dragon sword",
@@ -42424,28 +42465,23 @@
   },
   "21012": {
     "name": "Dragon hunter crossbow",
-    "highalch": 48000,
-    "wantedAmount":  5
+    "highalch": 48000
   },
   "21015": {
     "name": "Dinh's bulwark",
-    "highalch": 336000,
-    "wantedAmount":  3
+    "highalch": 336000
   },
   "21018": {
     "name": "Ancestral hat",
-    "highalch": 27000,
-    "wantedAmount":  5
+    "highalch": 27000
   },
   "21021": {
     "name": "Ancestral robe top",
-    "highalch": 72000,
-    "wantedAmount":  5
+    "highalch": 72000
   },
   "21024": {
     "name": "Ancestral robe bottom",
-    "highalch": 48000,
-    "wantedAmount":  5
+    "highalch": 48000
   },
   "21027": {
     "name": "Dark relic",
@@ -42453,8 +42489,7 @@
   },
   "21028": {
     "name": "Dragon harpoon",
-    "highalch": 33000,
-    "wantedAmount":  5
+    "highalch": 33000
   },
   "21031": {
     "name": "Infernal harpoon",
@@ -43365,7 +43400,7 @@
     "highalch": 147
   },
   "21352": {
-    "name": "Amethyst javelin heads",
+    "name": "Amethyst javelin tips",
     "highalch": 912,
     "stacks": [
       [
@@ -46230,7 +46265,7 @@
   },
   "22414": {
     "name": "Chain",
-    "highalch": 0
+    "highalch": 60
   },
   "22415": {
     "name": "Tome of experience",
@@ -46498,8 +46533,7 @@
   },
   "22550": {
     "name": "Craw's bow",
-    "highalch": 72000,
-    "wantedAmount" : 1
+    "highalch": 72000
   },
   "22552": {
     "name": "Thammaron's sceptre (u)",
@@ -46507,8 +46541,7 @@
   },
   "22555": {
     "name": "Thammaron's sceptre",
-    "highalch": 72000,
-    "wantedAmount": 3
+    "highalch": 72000
   },
   "22557": {
     "name": "Amulet of avarice",
@@ -46974,10 +47007,6 @@
     "name": "Cormorant's glove",
     "highalch": 0
   },
-  "22818": {
-    "name": "Fish chunks",
-    "highalch": 12
-  },
   "22820": {
     "name": "Molch pearl",
     "highalch": 30,
@@ -47366,13 +47395,11 @@
   },
   "22978": {
     "name": "Dragon hunter lance",
-    "highalch": 180000,
-    "wantedAmount":  5
+    "highalch": 180000
   },
   "22981": {
     "name": "Ferocious gloves",
-    "highalch": 60000,
-    "wantedAmount":  5
+    "highalch": 60000
   },
   "22983": {
     "name": "Hydra leather",
@@ -47380,8 +47407,7 @@
   },
   "22986": {
     "name": "Bonecrusher necklace",
-    "highalch": 48000,
-    "wantedAmount":  5
+    "highalch": 48000
   },
   "22988": {
     "name": "Hydra tail",
@@ -48744,7 +48770,7 @@
     "highalch": 48000
   },
   "23670": {
-    "name": "Flyer",
+    "name": "Iwan's flyer",
     "highalch": 0
   },
   "23673": {
@@ -54033,8 +54059,7 @@
   },
   "25975": {
     "name": "Lightbearer",
-    "highalch": 600000,
-    "wantedAmount":  5
+    "highalch": 600000
   },
   "25979": {
     "name": "Keris partisan",
@@ -54682,8 +54707,7 @@
   },
   "26219": {
     "name": "Osmumten's fang",
-    "highalch": 600000,
-    "wantedAmount":  5
+    "highalch": 600000
   },
   "26221": {
     "name": "Ancient ceremonial top",
@@ -58005,8 +58029,7 @@
   },
   "27655": {
     "name": "Webweaver bow",
-    "highalch": 105000,
-    "wantedAmount" : 1
+    "highalch": 105000
   },
   "27657": {
     "name": "Ursine chainmace (u)",
@@ -58022,8 +58045,7 @@
   },
   "27665": {
     "name": "Accursed sceptre",
-    "highalch": 105000,
-    "wantedAmount" : 3
+    "highalch": 105000
   },
   "27667": {
     "name": "Claws of callisto",
@@ -58031,13 +58053,11 @@
   },
   "27670": {
     "name": "Fangs of venenatis",
-    "highalch": 48000,
-    "wantedAmount" : 1
+    "highalch": 48000
   },
   "27673": {
     "name": "Skull of vet'ion",
-    "highalch": 48000,
-    "wantedAmount" : 3
+    "highalch": 48000
   },
   "27676": {
     "name": "Accursed sceptre (au)",
@@ -58061,8 +58081,7 @@
   },
   "27690": {
     "name": "Voidwaker",
-    "highalch": 1200000,
-    "wantedAmount":  5
+    "highalch": 1200000
   },
   "27693": {
     "name": "Ore pack",
@@ -60300,7 +60319,7 @@
   },
   "28684": {
     "name": "Trailblazer reloaded bulwark ornament kit",
-    "highalch": 3000
+    "highalch": 0
   },
   "28687": {
     "name": "Blazing blowpipe (empty)",
@@ -60312,19 +60331,19 @@
   },
   "28690": {
     "name": "Trailblazer reloaded blowpipe ornament kit",
-    "highalch": 3000
+    "highalch": 0
   },
   "28693": {
     "name": "Trailblazer reloaded alchemy scroll",
-    "highalch": 15000
+    "highalch": 0
   },
   "28696": {
     "name": "Trailblazer reloaded vengeance scroll",
-    "highalch": 15000
+    "highalch": 0
   },
   "28699": {
     "name": "Trailblazer reloaded death scroll",
-    "highalch": 15000
+    "highalch": 0
   },
   "28702": {
     "name": "Trailblazer reloaded banner",
@@ -60332,11 +60351,11 @@
   },
   "28705": {
     "name": "Trailblazer reloaded home teleport scroll",
-    "highalch": 15000
+    "highalch": 0
   },
   "28708": {
     "name": "Trailblazer reloaded rejuvenation pool scroll",
-    "highalch": 15000
+    "highalch": 0
   },
   "28711": {
     "name": "Trailblazer reloaded rejuvenation pool",
@@ -60344,51 +60363,51 @@
   },
   "28712": {
     "name": "Trailblazer reloaded headband (t1)",
-    "highalch": 9000
+    "highalch": 0
   },
   "28715": {
     "name": "Trailblazer reloaded top (t1)",
-    "highalch": 9000
+    "highalch": 0
   },
   "28718": {
     "name": "Trailblazer reloaded trousers (t1)",
-    "highalch": 9000
+    "highalch": 0
   },
   "28721": {
     "name": "Trailblazer reloaded boots (t1)",
-    "highalch": 9000
+    "highalch": 0
   },
   "28724": {
     "name": "Trailblazer reloaded headband (t2)",
-    "highalch": 9000
+    "highalch": 0
   },
   "28727": {
     "name": "Trailblazer reloaded top (t2)",
-    "highalch": 9000
+    "highalch": 0
   },
   "28730": {
     "name": "Trailblazer reloaded trousers (t2)",
-    "highalch": 9000
+    "highalch": 0
   },
   "28733": {
     "name": "Trailblazer reloaded boots (t2)",
-    "highalch": 9000
+    "highalch": 0
   },
   "28736": {
     "name": "Trailblazer reloaded headband (t3)",
-    "highalch": 9000
+    "highalch": 0
   },
   "28739": {
     "name": "Trailblazer reloaded top (t3)",
-    "highalch": 9000
+    "highalch": 0
   },
   "28742": {
     "name": "Trailblazer reloaded trousers (t3)",
-    "highalch": 9000
+    "highalch": 0
   },
   "28745": {
     "name": "Trailblazer reloaded boots (t3)",
-    "highalch": 9000
+    "highalch": 0
   },
   "28748": {
     "name": "Trailblazer reloaded torch",
@@ -60448,15 +60467,15 @@
   },
   "28777": {
     "name": "Trailblazer reloaded relic hunter (t1) armour set",
-    "highalch": 30000
+    "highalch": 0
   },
   "28780": {
     "name": "Trailblazer reloaded relic hunter (t2) armour set",
-    "highalch": 30000
+    "highalch": 0
   },
   "28783": {
     "name": "Trailblazer reloaded relic hunter (t3) armour set",
-    "highalch": 30000
+    "highalch": 0
   },
   "28786": {
     "name": "Icy jumper",
@@ -61592,7 +61611,7 @@
   },
   "29325": {
     "name": "House keys",
-    "highalch": 300,
+    "highalch": 0,
     "stacks": [
       [
         2,
@@ -62238,13 +62257,11 @@
   },
   "29577": {
     "name": "Burning claws",
-    "highalch": 480000,
-    "wantedAmount":  5
+    "highalch": 480000
   },
   "29580": {
     "name": "Tormented synapse",
-    "highalch": 480000,
-    "wantedAmount":  9
+    "highalch": 480000
   },
   "29583": {
     "name": "Smouldering heart",
@@ -62260,18 +62277,15 @@
   },
   "29589": {
     "name": "Emberlight",
-    "highalch": 480000,
-    "wantedAmount":  5
+    "highalch": 480000
   },
   "29591": {
     "name": "Scorching bow",
-    "highalch": 480000,
-    "wantedAmount":  5
+    "highalch": 480000
   },
   "29594": {
     "name": "Purging staff",
-    "highalch": 480000,
-    "wantedAmount":  5
+    "highalch": 480000
   },
   "29596": {
     "name": "Duradel's notes",
@@ -62671,8 +62685,7 @@
   },
   "29796": {
     "name": "Noxious halberd",
-    "highalch": 300000,
-    "wantedAmount" : 5
+    "highalch": 300000
   },
   "29799": {
     "name": "Araxyte fang",
@@ -62680,8 +62693,7 @@
   },
   "29801": {
     "name": "Amulet of rancour",
-    "highalch": 240000,
-    "wantedAmount":  5
+    "highalch": 240000
   },
   "29804": {
     "name": "Amulet of rancour (s)",
@@ -63893,15 +63905,15 @@
   },
   "30331": {
     "name": "Raging echoes relic hunter (t1) armour set",
-    "highalch": 30000
+    "highalch": 0
   },
   "30334": {
     "name": "Raging echoes relic hunter (t2) armour set",
-    "highalch": 30000
+    "highalch": 0
   },
   "30337": {
     "name": "Raging echoes relic hunter (t3) armour set",
-    "highalch": 30000
+    "highalch": 0
   },
   "30340": {
     "name": "Crystal dagger (perfected)",
@@ -64069,51 +64081,51 @@
   },
   "30404": {
     "name": "Raging echoes hat (t1)",
-    "highalch": 60000
+    "highalch": 0
   },
   "30406": {
     "name": "Raging echoes top (t1)",
-    "highalch": 60000
+    "highalch": 0
   },
   "30408": {
     "name": "Raging echoes robeskirt (t1)",
-    "highalch": 60000
+    "highalch": 0
   },
   "30410": {
     "name": "Raging echoes boots (t1)",
-    "highalch": 60000
+    "highalch": 0
   },
   "30412": {
     "name": "Raging echoes hat (t2)",
-    "highalch": 60000
+    "highalch": 0
   },
   "30414": {
     "name": "Raging echoes top (t2)",
-    "highalch": 60000
+    "highalch": 0
   },
   "30416": {
     "name": "Raging echoes robeskirt (t2)",
-    "highalch": 60000
+    "highalch": 0
   },
   "30418": {
     "name": "Raging echoes boots (t2)",
-    "highalch": 60000
+    "highalch": 0
   },
   "30420": {
     "name": "Raging echoes hat (t3)",
-    "highalch": 60000
+    "highalch": 0
   },
   "30422": {
     "name": "Raging echoes top (t3)",
-    "highalch": 60000
+    "highalch": 0
   },
   "30424": {
     "name": "Raging echoes robeskirt (t3)",
-    "highalch": 60000
+    "highalch": 0
   },
   "30426": {
     "name": "Raging echoes boots (t3)",
-    "highalch": 60000
+    "highalch": 0
   },
   "30428": {
     "name": "Raging echoes cane",
@@ -64121,11 +64133,11 @@
   },
   "30430": {
     "name": "Raging echoes banner",
-    "highalch": 600
+    "highalch": 0
   },
   "30432": {
     "name": "Echo venator bow ornament kit",
-    "highalch": 3000
+    "highalch": 0
   },
   "30434": {
     "name": "Echo venator bow",
@@ -64149,7 +64161,7 @@
   },
   "30443": {
     "name": "Echo virtus ornament kit",
-    "highalch": 3000
+    "highalch": 0
   },
   "30445": {
     "name": "Echo ahrim's hood",
@@ -64165,27 +64177,27 @@
   },
   "30451": {
     "name": "Echo ahrim's ornament kit",
-    "highalch": 3000
+    "highalch": 0
   },
   "30453": {
     "name": "Echo home teleport scroll",
-    "highalch": 15000
+    "highalch": 0
   },
   "30455": {
     "name": "Raging echoes death scroll",
-    "highalch": 15000
+    "highalch": 0
   },
   "30457": {
     "name": "Raging echoes npc contact scroll",
-    "highalch": 15000
+    "highalch": 0
   },
   "30459": {
     "name": "Raging echoes nexus scroll",
-    "highalch": 15000
+    "highalch": 0
   },
   "30461": {
     "name": "Raging echoes portal scroll",
-    "highalch": 15000
+    "highalch": 0
   },
   "30465": {
     "name": "Raging echoes dragon trophy",
@@ -64337,19 +64349,19 @@
   },
   "30554": {
     "name": "Raging echoes rug",
-    "highalch": 300
+    "highalch": 0
   },
   "30557": {
     "name": "Raging echoes curtains",
-    "highalch": 300
+    "highalch": 0
   },
   "30560": {
     "name": "Raging echoes scrying pool scroll",
-    "highalch": 15000
+    "highalch": 0
   },
   "30563": {
     "name": "Raging echoes spirit tree scroll",
-    "highalch": 15000
+    "highalch": 0
   },
   "30567": {
     "name": "Raging echoes spirit tree",
@@ -64705,23 +64717,19 @@
   },
   "30750": {
     "name": "Oathplate helm",
-    "highalch": 120000,
-    "wantedAmount":  5
+    "highalch": 120000
   },
   "30753": {
     "name": "Oathplate chest",
-    "highalch": 360000,
-    "wantedAmount":  5
+    "highalch": 360000
   },
   "30756": {
     "name": "Oathplate legs",
-    "highalch": 240000,
-    "wantedAmount":  5
+    "highalch": 240000
   },
   "30759": {
     "name": "Soulflame horn",
-    "highalch": 132000,
-    "wantedAmount":  3
+    "highalch": 132000
   },
   "30763": {
     "name": "Forgotten lockbox",
@@ -65636,5 +65644,4679 @@
   "31169": {
     "name": "Hueycoatl hide armour set",
     "highalch": 87000
+  },
+  "31172": {
+    "name": "Battlehat",
+    "highalch": 0
+  },
+  "31174": {
+    "name": "Corrupted shark",
+    "highalch": 0
+  },
+  "31181": {
+    "name": "Grid master tabard",
+    "highalch": 0
+  },
+  "31184": {
+    "name": "Grid master tabard (b)",
+    "highalch": 0
+  },
+  "31187": {
+    "name": "Grid master tabard (p)",
+    "highalch": 0
+  },
+  "31190": {
+    "name": "Grid master tabard (g)",
+    "highalch": 0
+  },
+  "31193": {
+    "name": "Swords and emblem",
+    "highalch": 60000
+  },
+  "31196": {
+    "name": "Swords and emblem (b)",
+    "highalch": 60000
+  },
+  "31199": {
+    "name": "Swords and emblem (p)",
+    "highalch": 60000
+  },
+  "31202": {
+    "name": "Swords and emblem (g)",
+    "highalch": 60000
+  },
+  "31205": {
+    "name": "Grid master altar icon scroll",
+    "highalch": 0
+  },
+  "31208": {
+    "name": "Grid master torch scroll",
+    "highalch": 0
+  },
+  "31211": {
+    "name": "Event lamp",
+    "highalch": 120
+  },
+  "31212": {
+    "name": "Combatant scroll",
+    "highalch": 0
+  },
+  "31214": {
+    "name": "Craftsman scroll",
+    "highalch": 0
+  },
+  "31216": {
+    "name": "Gatherer scroll",
+    "highalch": 0
+  },
+  "31218": {
+    "name": "Cabbage",
+    "highalch": 0
+  },
+  "31220": {
+    "name": "Cabbage",
+    "highalch": 0
+  },
+  "31225": {
+    "name": "Spooky chair",
+    "highalch": 0
+  },
+  "31227": {
+    "name": "Spooky pumpkin lantern",
+    "highalch": 0
+  },
+  "31229": {
+    "name": "Grim reaper top",
+    "highalch": 0
+  },
+  "31231": {
+    "name": "Grim reaper bottoms",
+    "highalch": 0
+  },
+  "31233": {
+    "name": "Grim reaper gloves",
+    "highalch": 0
+  },
+  "31235": {
+    "name": "Gryphon feather",
+    "highalch": 9,
+    "stacks": [
+      [
+        2,
+        31237
+      ],
+      [
+        3,
+        31238
+      ],
+      [
+        4,
+        31239
+      ],
+      [
+        5,
+        31240
+      ]
+    ]
+  },
+  "31241": {
+    "name": "Horn of plenty",
+    "highalch": 12000
+  },
+  "31243": {
+    "name": "Horn of plenty (empty)",
+    "highalch": 12000
+  },
+  "31245": {
+    "name": "Belle's folly (tarnished)",
+    "highalch": 27000
+  },
+  "31248": {
+    "name": "Belle's folly",
+    "highalch": 27000
+  },
+  "31251": {
+    "name": "Broken hasta",
+    "highalch": 0
+  },
+  "31252": {
+    "name": "Spirit angler headband",
+    "highalch": 0
+  },
+  "31253": {
+    "name": "Fossilised skull",
+    "highalch": 0
+  },
+  "31254": {
+    "name": "Tankard",
+    "highalch": 0
+  },
+  "31255": {
+    "name": "Barnacle blaster",
+    "highalch": 12
+  },
+  "31258": {
+    "name": "Kraken colada",
+    "highalch": 12
+  },
+  "31261": {
+    "name": "Sailor's mirage",
+    "highalch": 12
+  },
+  "31264": {
+    "name": "Blessed strykewyrm bones",
+    "highalch": 96
+  },
+  "31266": {
+    "name": "Blessed frost dragon bones",
+    "highalch": 96
+  },
+  "31268": {
+    "name": "Clue scroll (easy)",
+    "highalch": 12
+  },
+  "31269": {
+    "name": "Clue scroll (elite)",
+    "highalch": 12
+  },
+  "31270": {
+    "name": "Clue scroll (elite)",
+    "highalch": 12
+  },
+  "31271": {
+    "name": "Clue scroll (elite)",
+    "highalch": 12
+  },
+  "31272": {
+    "name": "Clue scroll (hard)",
+    "highalch": 12
+  },
+  "31273": {
+    "name": "Clue scroll (hard)",
+    "highalch": 12
+  },
+  "31274": {
+    "name": "Clue scroll (medium)",
+    "highalch": 12
+  },
+  "31275": {
+    "name": "Clue scroll (medium)",
+    "highalch": 12
+  },
+  "31276": {
+    "name": "Rock golem",
+    "highalch": 0
+  },
+  "31277": {
+    "name": "Rock golem",
+    "highalch": 0
+  },
+  "31278": {
+    "name": "Rock golem",
+    "highalch": 0
+  },
+  "31279": {
+    "name": "Beaver",
+    "highalch": 0
+  },
+  "31280": {
+    "name": "Beaver",
+    "highalch": 0
+  },
+  "31281": {
+    "name": "Beaver",
+    "highalch": 0
+  },
+  "31282": {
+    "name": "Beaver",
+    "highalch": 0
+  },
+  "31283": {
+    "name": "Soup",
+    "highalch": 0
+  },
+  "31285": {
+    "name": "Gull",
+    "highalch": 0
+  },
+  "31287": {
+    "name": "Gulliver",
+    "highalch": 0
+  },
+  "31288": {
+    "name": "Sailing cape",
+    "highalch": 59400
+  },
+  "31290": {
+    "name": "Sailing cape(t)",
+    "highalch": 59400
+  },
+  "31292": {
+    "name": "Sailing hood",
+    "highalch": 0
+  },
+  "31295": {
+    "name": "Deep sea helmet",
+    "highalch": 18
+  },
+  "31296": {
+    "name": "Deep sea apparatus",
+    "highalch": 18
+  },
+  "31297": {
+    "name": "Pirate medallion",
+    "highalch": 0
+  },
+  "31298": {
+    "name": "Deep sea helmet",
+    "highalch": 30
+  },
+  "31300": {
+    "name": "Deep sea apparatus",
+    "highalch": 30
+  },
+  "31327": {
+    "name": "Form cr-4p",
+    "highalch": 0
+  },
+  "31328": {
+    "name": "Form 7r4-5h",
+    "highalch": 0
+  },
+  "31329": {
+    "name": "Form 7r4-5h",
+    "highalch": 0
+  },
+  "31330": {
+    "name": "Mayoral fishbowl",
+    "highalch": 0
+  },
+  "31331": {
+    "name": "Mayor of catherby",
+    "highalch": 0
+  },
+  "31333": {
+    "name": "Strykewyrm bonemeal",
+    "highalch": 0
+  },
+  "31335": {
+    "name": "Frost dragon bonemeal",
+    "highalch": 0
+  },
+  "31338": {
+    "name": "Old cup",
+    "highalch": 18
+  },
+  "31339": {
+    "name": "Paper",
+    "highalch": 0
+  },
+  "31341": {
+    "name": "Confession",
+    "highalch": 0
+  },
+  "31343": {
+    "name": "Note",
+    "highalch": 0
+  },
+  "31345": {
+    "name": "Ink bottle",
+    "highalch": 0
+  },
+  "31347": {
+    "name": "Inky paper",
+    "highalch": 0
+  },
+  "31349": {
+    "name": "Ink bottle",
+    "highalch": 0
+  },
+  "31351": {
+    "name": "Smashed bottle",
+    "highalch": 0
+  },
+  "31353": {
+    "name": "Prison uniform top",
+    "highalch": 0
+  },
+  "31355": {
+    "name": "Prison uniform trousers",
+    "highalch": 0
+  },
+  "31357": {
+    "name": "Fishy prison uniform top",
+    "highalch": 0
+  },
+  "31359": {
+    "name": "Tin cup",
+    "highalch": 0
+  },
+  "31361": {
+    "name": "Tin cup",
+    "highalch": 0
+  },
+  "31363": {
+    "name": "Pipe",
+    "highalch": 0
+  },
+  "31365": {
+    "name": "Accordion",
+    "highalch": 0
+  },
+  "31367": {
+    "name": "Accordion",
+    "highalch": 0
+  },
+  "31369": {
+    "name": "Accordion",
+    "highalch": 0
+  },
+  "31371": {
+    "name": "Vacuum pump",
+    "highalch": 0
+  },
+  "31373": {
+    "name": "Vacuum pump and gull",
+    "highalch": 0
+  },
+  "31375": {
+    "name": "Quill",
+    "highalch": 0
+  },
+  "31377": {
+    "name": "Inky quill",
+    "highalch": 0
+  },
+  "31379": {
+    "name": "File",
+    "highalch": 0
+  },
+  "31381": {
+    "name": "File",
+    "highalch": 0
+  },
+  "31383": {
+    "name": "Camphor pyre logs",
+    "highalch": 264
+  },
+  "31386": {
+    "name": "Ironwood pyre logs",
+    "highalch": 432
+  },
+  "31389": {
+    "name": "Rosewood pyre logs",
+    "highalch": 576
+  },
+  "31392": {
+    "name": "Makeshift bandages",
+    "highalch": 0
+  },
+  "31393": {
+    "name": "Tortugan scute",
+    "highalch": 12
+  },
+  "31395": {
+    "name": "Sea shell",
+    "highalch": 12
+  },
+  "31397": {
+    "name": "List of repairs",
+    "highalch": 0
+  },
+  "31398": {
+    "name": "Tortugan shield",
+    "highalch": 1500
+  },
+  "31400": {
+    "name": "Offering bouquet",
+    "highalch": 18
+  },
+  "31401": {
+    "name": "Deep sea helmet",
+    "highalch": 18
+  },
+  "31403": {
+    "name": "Deep sea apparatus",
+    "highalch": 18
+  },
+  "31406": {
+    "name": "Dragon nails",
+    "highalch": 210
+  },
+  "31408": {
+    "name": "Giant blue krill",
+    "highalch": 3000
+  },
+  "31410": {
+    "name": "Stuffed giant blue krill",
+    "highalch": 3000
+  },
+  "31412": {
+    "name": "Golden haddock",
+    "highalch": 3000
+  },
+  "31414": {
+    "name": "Stuffed golden haddock",
+    "highalch": 3000
+  },
+  "31416": {
+    "name": "Orangefin",
+    "highalch": 3000
+  },
+  "31418": {
+    "name": "Stuffed orangefin",
+    "highalch": 3000
+  },
+  "31420": {
+    "name": "Huge halibut",
+    "highalch": 3300
+  },
+  "31422": {
+    "name": "Stuffed huge halibut",
+    "highalch": 3300
+  },
+  "31424": {
+    "name": "Purplefin",
+    "highalch": 3600
+  },
+  "31426": {
+    "name": "Stuffed purplefin",
+    "highalch": 3600
+  },
+  "31428": {
+    "name": "Swift marlin",
+    "highalch": 3900
+  },
+  "31430": {
+    "name": "Stuffed swift marlin",
+    "highalch": 3900
+  },
+  "31432": {
+    "name": "Camphor plank",
+    "highalch": 900
+  },
+  "31435": {
+    "name": "Ironwood plank",
+    "highalch": 900
+  },
+  "31438": {
+    "name": "Rosewood plank",
+    "highalch": 900
+  },
+  "31441": {
+    "name": "Summon boat",
+    "highalch": 0
+  },
+  "31443": {
+    "name": "Teleport to boat",
+    "highalch": 0
+  },
+  "31445": {
+    "name": "Mounted giant blue krill",
+    "highalch": 0
+  },
+  "31446": {
+    "name": "Mounted giant blue krill",
+    "highalch": 0
+  },
+  "31447": {
+    "name": "Mounted golden haddock",
+    "highalch": 0
+  },
+  "31448": {
+    "name": "Mounted golden haddock",
+    "highalch": 0
+  },
+  "31449": {
+    "name": "Mounted orangefin",
+    "highalch": 0
+  },
+  "31450": {
+    "name": "Mounted orangefin",
+    "highalch": 0
+  },
+  "31451": {
+    "name": "Mounted halibut",
+    "highalch": 0
+  },
+  "31452": {
+    "name": "Mounted purplefin",
+    "highalch": 0
+  },
+  "31453": {
+    "name": "Mounted marlin",
+    "highalch": 0
+  },
+  "31454": {
+    "name": "Ball of cotton",
+    "highalch": 1
+  },
+  "31457": {
+    "name": "Hemp",
+    "highalch": 18
+  },
+  "31460": {
+    "name": "Cotton boll",
+    "highalch": 60
+  },
+  "31463": {
+    "name": "Linen yarn",
+    "highalch": 3
+  },
+  "31466": {
+    "name": "Hemp yarn",
+    "highalch": 21
+  },
+  "31469": {
+    "name": "Cotton yarn",
+    "highalch": 72
+  },
+  "31472": {
+    "name": "Bolt of linen",
+    "highalch": 12
+  },
+  "31475": {
+    "name": "Bolt of canvas",
+    "highalch": 60
+  },
+  "31478": {
+    "name": "Bolt of cotton",
+    "highalch": 240
+  },
+  "31481": {
+    "name": "Elkhorn coral",
+    "highalch": 31
+  },
+  "31484": {
+    "name": "Pillar coral",
+    "highalch": 62
+  },
+  "31487": {
+    "name": "Umbral coral",
+    "highalch": 93
+  },
+  "31490": {
+    "name": "Camphor seedling",
+    "highalch": 0
+  },
+  "31492": {
+    "name": "Ironwood seedling",
+    "highalch": 0
+  },
+  "31494": {
+    "name": "Rosewood seedling",
+    "highalch": 0
+  },
+  "31496": {
+    "name": "Camphor seedling (w)",
+    "highalch": 0
+  },
+  "31498": {
+    "name": "Ironwood seedling (w)",
+    "highalch": 0
+  },
+  "31500": {
+    "name": "Rosewood seedling (w)",
+    "highalch": 0
+  },
+  "31502": {
+    "name": "Camphor sapling",
+    "highalch": 0
+  },
+  "31505": {
+    "name": "Ironwood sapling",
+    "highalch": 0
+  },
+  "31508": {
+    "name": "Rosewood sapling",
+    "highalch": 0
+  },
+  "31511": {
+    "name": "Elkhorn frag",
+    "highalch": 15
+  },
+  "31513": {
+    "name": "Pillar frag",
+    "highalch": 31
+  },
+  "31515": {
+    "name": "Umbral frag",
+    "highalch": 46
+  },
+  "31541": {
+    "name": "Flax seed",
+    "highalch": 3,
+    "stacks": [
+      [
+        2,
+        31517
+      ],
+      [
+        3,
+        31518
+      ],
+      [
+        4,
+        31519
+      ],
+      [
+        5,
+        31520
+      ]
+    ]
+  },
+  "31543": {
+    "name": "Hemp seed",
+    "highalch": 3,
+    "stacks": [
+      [
+        2,
+        31521
+      ],
+      [
+        3,
+        31522
+      ],
+      [
+        4,
+        31523
+      ],
+      [
+        5,
+        31524
+      ]
+    ]
+  },
+  "31545": {
+    "name": "Cotton seed",
+    "highalch": 3,
+    "stacks": [
+      [
+        2,
+        31525
+      ],
+      [
+        3,
+        31526
+      ],
+      [
+        4,
+        31527
+      ],
+      [
+        5,
+        31528
+      ]
+    ]
+  },
+  "31547": {
+    "name": "Camphor seed",
+    "highalch": 36,
+    "stacks": [
+      [
+        2,
+        31529
+      ],
+      [
+        3,
+        31530
+      ],
+      [
+        4,
+        31531
+      ],
+      [
+        5,
+        31532
+      ]
+    ]
+  },
+  "31549": {
+    "name": "Ironwood seed",
+    "highalch": 43,
+    "stacks": [
+      [
+        2,
+        31533
+      ],
+      [
+        3,
+        31534
+      ],
+      [
+        4,
+        31535
+      ],
+      [
+        5,
+        31536
+      ]
+    ]
+  },
+  "31551": {
+    "name": "Rosewood seed",
+    "highalch": 48,
+    "stacks": [
+      [
+        2,
+        31537
+      ],
+      [
+        3,
+        31538
+      ],
+      [
+        4,
+        31539
+      ],
+      [
+        5,
+        31540
+      ]
+    ]
+  },
+  "31553": {
+    "name": "Raw swordtip squid",
+    "highalch": 60
+  },
+  "31556": {
+    "name": "Swordtip squid",
+    "highalch": 60
+  },
+  "31559": {
+    "name": "Burnt swordtip squid",
+    "highalch": 0
+  },
+  "31561": {
+    "name": "Raw jumbo squid",
+    "highalch": 96
+  },
+  "31564": {
+    "name": "Jumbo squid",
+    "highalch": 96
+  },
+  "31567": {
+    "name": "Burnt jumbo squid",
+    "highalch": 0
+  },
+  "31569": {
+    "name": "Squid paste",
+    "highalch": 60
+  },
+  "31572": {
+    "name": "Squid beak",
+    "highalch": 3000
+  },
+  "31575": {
+    "name": "Camphor blowpipe",
+    "highalch": 1320
+  },
+  "31577": {
+    "name": "Camphor blowpipe (empty)",
+    "highalch": 1320
+  },
+  "31579": {
+    "name": "Ironwood blowpipe",
+    "highalch": 2160
+  },
+  "31581": {
+    "name": "Ironwood blowpipe (empty)",
+    "highalch": 2160
+  },
+  "31583": {
+    "name": "Rosewood blowpipe",
+    "highalch": 2880
+  },
+  "31585": {
+    "name": "Rosewood blowpipe (empty)",
+    "highalch": 2880
+  },
+  "31587": {
+    "name": "Haemostatic poultice",
+    "highalch": 102
+  },
+  "31590": {
+    "name": "Haemostatic dressing (4)",
+    "highalch": 150
+  },
+  "31593": {
+    "name": "Haemostatic dressing (3)",
+    "highalch": 150
+  },
+  "31596": {
+    "name": "Haemostatic dressing (2)",
+    "highalch": 150
+  },
+  "31599": {
+    "name": "Haemostatic dressing (1)",
+    "highalch": 150
+  },
+  "31602": {
+    "name": "Super fishing potion(4)",
+    "highalch": 150
+  },
+  "31605": {
+    "name": "Super fishing potion(3)",
+    "highalch": 102
+  },
+  "31608": {
+    "name": "Super fishing potion(2)",
+    "highalch": 54
+  },
+  "31611": {
+    "name": "Super fishing potion(1)",
+    "highalch": 24
+  },
+  "31614": {
+    "name": "Extreme energy potion(4)",
+    "highalch": 150
+  },
+  "31617": {
+    "name": "Extreme energy potion(3)",
+    "highalch": 102
+  },
+  "31620": {
+    "name": "Extreme energy potion(2)",
+    "highalch": 54
+  },
+  "31623": {
+    "name": "Extreme energy potion(1)",
+    "highalch": 24
+  },
+  "31626": {
+    "name": "Super hunter potion(4)",
+    "highalch": 150
+  },
+  "31629": {
+    "name": "Super hunter potion(3)",
+    "highalch": 102
+  },
+  "31632": {
+    "name": "Super hunter potion(2)",
+    "highalch": 54
+  },
+  "31635": {
+    "name": "Super hunter potion(1)",
+    "highalch": 24
+  },
+  "31638": {
+    "name": "Extended stamina potion(4)",
+    "highalch": 150
+  },
+  "31641": {
+    "name": "Extended stamina potion(3)",
+    "highalch": 102
+  },
+  "31644": {
+    "name": "Extended stamina potion(2)",
+    "highalch": 54
+  },
+  "31647": {
+    "name": "Extended stamina potion(1)",
+    "highalch": 24
+  },
+  "31650": {
+    "name": "Armadyl brew(4)",
+    "highalch": 150
+  },
+  "31653": {
+    "name": "Armadyl brew(3)",
+    "highalch": 102
+  },
+  "31656": {
+    "name": "Armadyl brew(2)",
+    "highalch": 54
+  },
+  "31659": {
+    "name": "Armadyl brew(1)",
+    "highalch": 24
+  },
+  "31662": {
+    "name": "Elkhorn potion (unf)",
+    "highalch": 15
+  },
+  "31665": {
+    "name": "Pillar potion (unf)",
+    "highalch": 15
+  },
+  "31668": {
+    "name": "Umbral potion (unf)",
+    "highalch": 15
+  },
+  "31671": {
+    "name": "Red crab",
+    "highalch": 60
+  },
+  "31674": {
+    "name": "Blue crab",
+    "highalch": 75
+  },
+  "31677": {
+    "name": "Rainbow crab",
+    "highalch": 180
+  },
+  "31680": {
+    "name": "Rainbow crab",
+    "highalch": 180
+  },
+  "31683": {
+    "name": "Rainbow crab",
+    "highalch": 180
+  },
+  "31686": {
+    "name": "Raw red crab meat",
+    "highalch": 60
+  },
+  "31689": {
+    "name": "Red crab meat",
+    "highalch": 60
+  },
+  "31692": {
+    "name": "Raw blue crab meat",
+    "highalch": 90
+  },
+  "31695": {
+    "name": "Blue crab meat",
+    "highalch": 90
+  },
+  "31698": {
+    "name": "Burnt crab meat",
+    "highalch": 0
+  },
+  "31700": {
+    "name": "Raw rainbow crab meat",
+    "highalch": 180
+  },
+  "31703": {
+    "name": "Rainbow crab meat",
+    "highalch": 180
+  },
+  "31706": {
+    "name": "Burnt rainbow crab meat",
+    "highalch": 0
+  },
+  "31708": {
+    "name": "Crab paste",
+    "highalch": 180
+  },
+  "31710": {
+    "name": "Rainbow crab paste",
+    "highalch": 180
+  },
+  "31712": {
+    "name": "Anti-odour salt",
+    "highalch": 6
+  },
+  "31716": {
+    "name": "Lead ore",
+    "highalch": 21
+  },
+  "31719": {
+    "name": "Nickel ore",
+    "highalch": 240
+  },
+  "31722": {
+    "name": "Rubium splinters",
+    "highalch": 9
+  },
+  "31724": {
+    "name": "Rubium geode",
+    "highalch": 180
+  },
+  "31726": {
+    "name": "Strykewyrm bones",
+    "highalch": 96
+  },
+  "31729": {
+    "name": "Frost dragon bones",
+    "highalch": 96
+  },
+  "31732": {
+    "name": "Stormy key",
+    "highalch": 18
+  },
+  "31733": {
+    "name": "Barrel stand",
+    "highalch": 18
+  },
+  "31734": {
+    "name": "Ralph's fabric roll",
+    "highalch": 300
+  },
+  "31736": {
+    "name": "Storm cruiser's hat",
+    "highalch": 21
+  },
+  "31738": {
+    "name": "Storm cruiser's coat",
+    "highalch": 21
+  },
+  "31740": {
+    "name": "Storm cruiser's trousers",
+    "highalch": 21
+  },
+  "31742": {
+    "name": "Storm cruiser's shoes",
+    "highalch": 0
+  },
+  "31744": {
+    "name": "Fetid key",
+    "highalch": 18
+  },
+  "31745": {
+    "name": "Captured wind mote",
+    "highalch": 18
+  },
+  "31746": {
+    "name": "Gurtob's fabric roll",
+    "highalch": 300
+  },
+  "31748": {
+    "name": "Nifty hat",
+    "highalch": 21
+  },
+  "31750": {
+    "name": "Nifty jacket",
+    "highalch": 21
+  },
+  "31752": {
+    "name": "Nifty trousers",
+    "highalch": 21
+  },
+  "31754": {
+    "name": "Nifty shoes",
+    "highalch": 0
+  },
+  "31756": {
+    "name": "Serrated key",
+    "highalch": 18
+  },
+  "31757": {
+    "name": "Heart of ithell",
+    "highalch": 18
+  },
+  "31758": {
+    "name": "Gwyna's fabric roll",
+    "highalch": 300
+  },
+  "31760": {
+    "name": "Sleek hat",
+    "highalch": 21
+  },
+  "31762": {
+    "name": "Sleek jacket",
+    "highalch": 21
+  },
+  "31764": {
+    "name": "Sleek trousers",
+    "highalch": 21
+  },
+  "31766": {
+    "name": "Sleek shoes",
+    "highalch": 0
+  },
+  "31768": {
+    "name": "Sunken rum",
+    "highalch": 12
+  },
+  "31770": {
+    "name": "Tiny pearl",
+    "highalch": 300
+  },
+  "31773": {
+    "name": "Small pearl",
+    "highalch": 600
+  },
+  "31776": {
+    "name": "Shiny pearl",
+    "highalch": 3000
+  },
+  "31779": {
+    "name": "Bright pearl",
+    "highalch": 6000
+  },
+  "31782": {
+    "name": "Big pearl",
+    "highalch": 15000
+  },
+  "31785": {
+    "name": "Huge pearl",
+    "highalch": 30000
+  },
+  "31788": {
+    "name": "Enormous pearl",
+    "highalch": 60000
+  },
+  "31791": {
+    "name": "Shimmering pearl",
+    "highalch": 150000
+  },
+  "31794": {
+    "name": "Glistening pearl",
+    "highalch": 300000
+  },
+  "31797": {
+    "name": "Brilliant pearl",
+    "highalch": 600000
+  },
+  "31800": {
+    "name": "Radiant pearl",
+    "highalch": 1500000
+  },
+  "31803": {
+    "name": "Spyglass",
+    "highalch": 30
+  },
+  "31805": {
+    "name": "Current duck",
+    "highalch": 30
+  },
+  "31807": {
+    "name": "Crowbar",
+    "highalch": 30
+  },
+  "31809": {
+    "name": "Portable weather station",
+    "highalch": 30
+  },
+  "31810": {
+    "name": "Data filled portable weather station",
+    "highalch": 30
+  },
+  "31811": {
+    "name": "Whirlpool surprise",
+    "highalch": 180
+  },
+  "31814": {
+    "name": "Kraken ink stout",
+    "highalch": 180
+  },
+  "31817": {
+    "name": "Perildance bitter",
+    "highalch": 180
+  },
+  "31820": {
+    "name": "Trawler's trust",
+    "highalch": 180
+  },
+  "31823": {
+    "name": "Horizon's lure",
+    "highalch": 180
+  },
+  "31831": {
+    "name": "Bottle of almost smuggled rum",
+    "highalch": 30
+  },
+  "31832": {
+    "name": "Bottle of sorodamin's bru",
+    "highalch": 30
+  },
+  "31833": {
+    "name": "Bottle of fish bladder stout",
+    "highalch": 0
+  },
+  "31834": {
+    "name": "Bottle of potterington's marrow wine",
+    "highalch": 0
+  },
+  "31835": {
+    "name": "Bottle of slug's mind balm",
+    "highalch": 30
+  },
+  "31836": {
+    "name": "Bottle of spinner's last gasp",
+    "highalch": 30
+  },
+  "31837": {
+    "name": "Bottle of barracuda brew",
+    "highalch": 30
+  },
+  "31838": {
+    "name": "Bottle of banana daiquiri",
+    "highalch": 30
+  },
+  "31839": {
+    "name": "Bottle of kharazi cooler",
+    "highalch": 30
+  },
+  "31840": {
+    "name": "Bottle of dognose draught",
+    "highalch": 30
+  },
+  "31841": {
+    "name": "Bottle of the way home",
+    "highalch": 30
+  },
+  "31842": {
+    "name": "Bottle of platinum rum",
+    "highalch": 30
+  },
+  "31843": {
+    "name": "Bottle of light in the dark",
+    "highalch": 30
+  },
+  "31844": {
+    "name": "Bottle of ogre prayer potion",
+    "highalch": 30
+  },
+  "31845": {
+    "name": "Bottle of get to the point punch",
+    "highalch": 30
+  },
+  "31846": {
+    "name": "Bottle of oo'glug",
+    "highalch": 30
+  },
+  "31847": {
+    "name": "Bottle of myths mighty mixer",
+    "highalch": 30
+  },
+  "31848": {
+    "name": "Bottle of goldless asgoldian ale",
+    "highalch": 30
+  },
+  "31849": {
+    "name": "Bottle of destructor's cocktail",
+    "highalch": 30
+  },
+  "31850": {
+    "name": "Bottle of zogre's sloppy kisses",
+    "highalch": 30
+  },
+  "31851": {
+    "name": "Bottle of creator's cocktail",
+    "highalch": 30
+  },
+  "31852": {
+    "name": "Bottle of soul",
+    "highalch": 30
+  },
+  "31853": {
+    "name": "Bottle of zul-rye beer",
+    "highalch": 30
+  },
+  "31854": {
+    "name": "Bottle of captain clop's mango gin",
+    "highalch": 30
+  },
+  "31855": {
+    "name": "Bottle of slippery snake skins in possibly gravy",
+    "highalch": 30
+  },
+  "31856": {
+    "name": "Bottle of crystal clear water",
+    "highalch": 30
+  },
+  "31857": {
+    "name": "Bottle of underground passteurised milk",
+    "highalch": 30
+  },
+  "31858": {
+    "name": "Bottle of delicate elven wine",
+    "highalch": 30
+  },
+  "31859": {
+    "name": "Bottle of sea spray",
+    "highalch": 30
+  },
+  "31860": {
+    "name": "Bottle of banker's draught",
+    "highalch": 30
+  },
+  "31861": {
+    "name": "Bottle of headless unicornman's heady beer",
+    "highalch": 30
+  },
+  "31862": {
+    "name": "Bottle of soul juice",
+    "highalch": 30
+  },
+  "31863": {
+    "name": "Bottle of crocodile tears",
+    "highalch": 30
+  },
+  "31864": {
+    "name": "Bottle of fishier bladderier stout",
+    "highalch": 30
+  },
+  "31865": {
+    "name": "Daddy's special water's special water",
+    "highalch": 0
+  },
+  "31867": {
+    "name": "The melted rocks",
+    "highalch": 0
+  },
+  "31869": {
+    "name": "Chuck up's 'stew'",
+    "highalch": 0
+  },
+  "31871": {
+    "name": "Bottle of tangled toad's legs cider",
+    "highalch": 30
+  },
+  "31872": {
+    "name": "Bottle of waterbirth blue lagoon",
+    "highalch": 30
+  },
+  "31873": {
+    "name": "Bottle of fishtongue tonic",
+    "highalch": 30
+  },
+  "31874": {
+    "name": "Bottle of the endless night",
+    "highalch": 30
+  },
+  "31875": {
+    "name": "Bottle of exile's welcome",
+    "highalch": 30
+  },
+  "31876": {
+    "name": "Bottle of suqah-free cola",
+    "highalch": 30
+  },
+  "31877": {
+    "name": "Bottle of winter sun",
+    "highalch": 30
+  },
+  "31878": {
+    "name": "Bottle of black lobster ale",
+    "highalch": 30
+  },
+  "31879": {
+    "name": "Rare black lobster",
+    "highalch": 0
+  },
+  "31881": {
+    "name": "Bottle of dwarvern wizard's stout bomb",
+    "highalch": 30
+  },
+  "31882": {
+    "name": "Bottle of kgp standard issue martini",
+    "highalch": 30
+  },
+  "31883": {
+    "name": "Bottle of graveyard corpse reviver",
+    "highalch": 30
+  },
+  "31884": {
+    "name": "Bottle of weiss meltwater",
+    "highalch": 30
+  },
+  "31885": {
+    "name": "Bottle of ol' random's reddest rum",
+    "highalch": 30
+  },
+  "31886": {
+    "name": "Bottle of elidinis's life water",
+    "highalch": 30
+  },
+  "31887": {
+    "name": "Bottle of possible albumen",
+    "highalch": 30
+  },
+  "31888": {
+    "name": "Bottle of alone at sea",
+    "highalch": 30
+  },
+  "31889": {
+    "name": "Bottle of alco-sol",
+    "highalch": 30
+  },
+  "31890": {
+    "name": "Bottle of portal nexus perry",
+    "highalch": 30
+  },
+  "31891": {
+    "name": "Bottle of self-congratulation wine",
+    "highalch": 30
+  },
+  "31892": {
+    "name": "Bottle of fish bladder stoutier",
+    "highalch": 30
+  },
+  "31893": {
+    "name": "Bottle of crystal clear vodka",
+    "highalch": 30
+  },
+  "31894": {
+    "name": "Bottle of spinning comp-kvass",
+    "highalch": 30
+  },
+  "31895": {
+    "name": "Bottle of puzzlers poteen",
+    "highalch": 30
+  },
+  "31896": {
+    "name": "Bottle of wild wood whisky",
+    "highalch": 30
+  },
+  "31897": {
+    "name": "Bottle of robert's port",
+    "highalch": 30
+  },
+  "31898": {
+    "name": "Bottle of sea shandy 2",
+    "highalch": 30
+  },
+  "31899": {
+    "name": "Bottle of monkfish bladder stout",
+    "highalch": 30
+  },
+  "31900": {
+    "name": "Bottle of lunarshine",
+    "highalch": 30
+  },
+  "31901": {
+    "name": "Bottle of impling surprise",
+    "highalch": 30
+  },
+  "31902": {
+    "name": "Bottle of mystery fruit cider",
+    "highalch": 30
+  },
+  "31903": {
+    "name": "Mystery fruit",
+    "highalch": 0
+  },
+  "31905": {
+    "name": "Bottle of captain cat's black rum",
+    "highalch": 30
+  },
+  "31906": {
+    "name": "Bronze cannonball",
+    "highalch": 1
+  },
+  "31908": {
+    "name": "Iron cannonball",
+    "highalch": 2
+  },
+  "31910": {
+    "name": "Mithril cannonball",
+    "highalch": 36
+  },
+  "31912": {
+    "name": "Adamant cannonball",
+    "highalch": 108
+  },
+  "31914": {
+    "name": "Rune cannonball",
+    "highalch": 840
+  },
+  "31916": {
+    "name": "Dragon cannonball",
+    "highalch": 1080
+  },
+  "31918": {
+    "name": "Bronze chainshot cannonball",
+    "highalch": 2
+  },
+  "31920": {
+    "name": "Iron chainshot cannonball",
+    "highalch": 4
+  },
+  "31922": {
+    "name": "Steel chainshot cannonball",
+    "highalch": 6
+  },
+  "31924": {
+    "name": "Mithril chainshot cannonball",
+    "highalch": 72
+  },
+  "31926": {
+    "name": "Adamant chainshot cannonball",
+    "highalch": 216
+  },
+  "31928": {
+    "name": "Rune chainshot cannonball",
+    "highalch": 1680
+  },
+  "31930": {
+    "name": "Dragon chainshot cannonball",
+    "highalch": 2160
+  },
+  "31932": {
+    "name": "Bronze incendiary cannonball",
+    "highalch": 2
+  },
+  "31934": {
+    "name": "Iron incendiary cannonball",
+    "highalch": 4
+  },
+  "31936": {
+    "name": "Steel incendiary cannonball",
+    "highalch": 6
+  },
+  "31938": {
+    "name": "Mithril incendiary cannonball",
+    "highalch": 72
+  },
+  "31940": {
+    "name": "Adamant incendiary cannonball",
+    "highalch": 216
+  },
+  "31942": {
+    "name": "Rune incendiary cannonball",
+    "highalch": 1680
+  },
+  "31944": {
+    "name": "Dragon incendiary cannonball",
+    "highalch": 2160
+  },
+  "31946": {
+    "name": "Echo pearl",
+    "highalch": 4800
+  },
+  "31949": {
+    "name": "Bottled storm",
+    "highalch": 4800
+  },
+  "31952": {
+    "name": "Swift albatross feather",
+    "highalch": 4800
+  },
+  "31954": {
+    "name": "Narwhal horn",
+    "highalch": 4800
+  },
+  "31957": {
+    "name": "Narwhal horn knife",
+    "highalch": 0
+  },
+  "31959": {
+    "name": "Ray barbs",
+    "highalch": 4800
+  },
+  "31961": {
+    "name": "Broken dragon hook",
+    "highalch": 4800
+  },
+  "31964": {
+    "name": "Repair kit",
+    "highalch": 90
+  },
+  "31967": {
+    "name": "Oak repair kit",
+    "highalch": 240
+  },
+  "31970": {
+    "name": "Teak repair kit",
+    "highalch": 600
+  },
+  "31973": {
+    "name": "Mahogany repair kit",
+    "highalch": 1500
+  },
+  "31976": {
+    "name": "Camphor repair kit",
+    "highalch": 2100
+  },
+  "31979": {
+    "name": "Ironwood repair kit",
+    "highalch": 2400
+  },
+  "31982": {
+    "name": "Rosewood repair kit",
+    "highalch": 3000
+  },
+  "31985": {
+    "name": "Captain's log",
+    "highalch": 30
+  },
+  "31986": {
+    "name": "Captain's log",
+    "highalch": 30
+  },
+  "31989": {
+    "name": "Boat bottle (empty)",
+    "highalch": 300
+  },
+  "31992": {
+    "name": "Boat bottle (full)",
+    "highalch": 300
+  },
+  "31996": {
+    "name": "Dragon metal sheet",
+    "highalch": 30000
+  },
+  "31999": {
+    "name": "Bronze keel parts",
+    "highalch": 21
+  },
+  "32002": {
+    "name": "Iron keel parts",
+    "highalch": 75
+  },
+  "32005": {
+    "name": "Steel keel parts",
+    "highalch": 300
+  },
+  "32008": {
+    "name": "Mithril keel parts",
+    "highalch": 750
+  },
+  "32011": {
+    "name": "Adamant keel parts",
+    "highalch": 1875
+  },
+  "32014": {
+    "name": "Rune keel parts",
+    "highalch": 12000
+  },
+  "32017": {
+    "name": "Dragon keel parts",
+    "highalch": 22500
+  },
+  "32020": {
+    "name": "Large bronze keel parts",
+    "highalch": 105
+  },
+  "32023": {
+    "name": "Large iron keel parts",
+    "highalch": 375
+  },
+  "32026": {
+    "name": "Large steel keel parts",
+    "highalch": 1500
+  },
+  "32029": {
+    "name": "Large mithril keel parts",
+    "highalch": 3750
+  },
+  "32032": {
+    "name": "Large adamant keel parts",
+    "highalch": 9375
+  },
+  "32035": {
+    "name": "Large rune keel parts",
+    "highalch": 60000
+  },
+  "32038": {
+    "name": "Large dragon keel parts",
+    "highalch": 112500
+  },
+  "32041": {
+    "name": "Wooden hull parts",
+    "highalch": 150
+  },
+  "32044": {
+    "name": "Oak hull parts",
+    "highalch": 375
+  },
+  "32047": {
+    "name": "Teak hull parts",
+    "highalch": 750
+  },
+  "32050": {
+    "name": "Mahogany hull parts",
+    "highalch": 2250
+  },
+  "32053": {
+    "name": "Camphor hull parts",
+    "highalch": 3750
+  },
+  "32056": {
+    "name": "Ironwood hull parts",
+    "highalch": 7500
+  },
+  "32059": {
+    "name": "Rosewood hull parts",
+    "highalch": 11250
+  },
+  "32062": {
+    "name": "Large wooden hull parts",
+    "highalch": 750
+  },
+  "32065": {
+    "name": "Large oak hull parts",
+    "highalch": 1875
+  },
+  "32068": {
+    "name": "Large teak hull parts",
+    "highalch": 3750
+  },
+  "32071": {
+    "name": "Large mahogany hull parts",
+    "highalch": 11250
+  },
+  "32074": {
+    "name": "Large camphor hull parts",
+    "highalch": 18750
+  },
+  "32077": {
+    "name": "Large ironwood hull parts",
+    "highalch": 37500
+  },
+  "32080": {
+    "name": "Large rosewood hull parts",
+    "highalch": 56250
+  },
+  "32083": {
+    "name": "Sawmill coupon (wood plank)",
+    "highalch": 60
+  },
+  "32085": {
+    "name": "Sawmill coupon (oak plank)",
+    "highalch": 60
+  },
+  "32087": {
+    "name": "Barracuda paint",
+    "highalch": 0
+  },
+  "32090": {
+    "name": "Shark paint",
+    "highalch": 0
+  },
+  "32093": {
+    "name": "Inky paint",
+    "highalch": 0
+  },
+  "32096": {
+    "name": "Angler's paint",
+    "highalch": 0
+  },
+  "32099": {
+    "name": "Salvor's paint",
+    "highalch": 0
+  },
+  "32102": {
+    "name": "Armadylean paint",
+    "highalch": 0
+  },
+  "32104": {
+    "name": "Zamorakian paint",
+    "highalch": 0
+  },
+  "32106": {
+    "name": "Guthixian paint",
+    "highalch": 0
+  },
+  "32108": {
+    "name": "Saradominist paint",
+    "highalch": 0
+  },
+  "32110": {
+    "name": "Merchant's paint",
+    "highalch": 0
+  },
+  "32113": {
+    "name": "Sandy paint",
+    "highalch": 0
+  },
+  "32115": {
+    "name": "Dragon cannon barrel",
+    "highalch": 30000
+  },
+  "32118": {
+    "name": "Wooden hull and hull parts",
+    "highalch": 0
+  },
+  "32119": {
+    "name": "Wooden hull and hull parts",
+    "highalch": 0
+  },
+  "32120": {
+    "name": "Wooden hull and hull parts",
+    "highalch": 0
+  },
+  "32121": {
+    "name": "Oak hull and hull parts",
+    "highalch": 0
+  },
+  "32122": {
+    "name": "Oak hull and hull parts",
+    "highalch": 0
+  },
+  "32123": {
+    "name": "Oak hull and hull parts",
+    "highalch": 0
+  },
+  "32124": {
+    "name": "Teak hull and hull parts",
+    "highalch": 0
+  },
+  "32125": {
+    "name": "Teak hull and hull parts",
+    "highalch": 0
+  },
+  "32126": {
+    "name": "Teak hull and hull parts",
+    "highalch": 0
+  },
+  "32127": {
+    "name": "Mahogany hull and hull parts",
+    "highalch": 0
+  },
+  "32128": {
+    "name": "Mahogany hull and hull parts",
+    "highalch": 0
+  },
+  "32129": {
+    "name": "Mahogany hull and hull parts",
+    "highalch": 0
+  },
+  "32130": {
+    "name": "Camphor hull and hull parts",
+    "highalch": 0
+  },
+  "32131": {
+    "name": "Camphor hull and hull parts",
+    "highalch": 0
+  },
+  "32132": {
+    "name": "Camphor hull and hull parts",
+    "highalch": 0
+  },
+  "32133": {
+    "name": "Ironwood hull and hull parts",
+    "highalch": 0
+  },
+  "32134": {
+    "name": "Ironwood hull and hull parts",
+    "highalch": 0
+  },
+  "32135": {
+    "name": "Ironwood hull and hull parts",
+    "highalch": 0
+  },
+  "32136": {
+    "name": "Rosewood hull and hull parts",
+    "highalch": 0
+  },
+  "32137": {
+    "name": "Rosewood hull and hull parts",
+    "highalch": 0
+  },
+  "32138": {
+    "name": "Rosewood hull and hull parts",
+    "highalch": 0
+  },
+  "32139": {
+    "name": "Bronze helm",
+    "highalch": 0
+  },
+  "32140": {
+    "name": "Bronze helm",
+    "highalch": 0
+  },
+  "32141": {
+    "name": "Bronze helm",
+    "highalch": 0
+  },
+  "32142": {
+    "name": "Iron helm",
+    "highalch": 0
+  },
+  "32143": {
+    "name": "Iron helm",
+    "highalch": 0
+  },
+  "32144": {
+    "name": "Iron helm",
+    "highalch": 0
+  },
+  "32145": {
+    "name": "Steel helm",
+    "highalch": 0
+  },
+  "32146": {
+    "name": "Steel helm",
+    "highalch": 0
+  },
+  "32147": {
+    "name": "Steel helm",
+    "highalch": 0
+  },
+  "32148": {
+    "name": "Mithril helm",
+    "highalch": 0
+  },
+  "32149": {
+    "name": "Mithril helm",
+    "highalch": 0
+  },
+  "32150": {
+    "name": "Mithril helm",
+    "highalch": 0
+  },
+  "32151": {
+    "name": "Adamant helm",
+    "highalch": 0
+  },
+  "32152": {
+    "name": "Adamant helm",
+    "highalch": 0
+  },
+  "32153": {
+    "name": "Adamant helm",
+    "highalch": 0
+  },
+  "32154": {
+    "name": "Rune helm",
+    "highalch": 0
+  },
+  "32155": {
+    "name": "Rune helm",
+    "highalch": 0
+  },
+  "32156": {
+    "name": "Rune helm",
+    "highalch": 0
+  },
+  "32157": {
+    "name": "Dragon helm",
+    "highalch": 0
+  },
+  "32158": {
+    "name": "Dragon helm",
+    "highalch": 0
+  },
+  "32159": {
+    "name": "Dragon helm",
+    "highalch": 0
+  },
+  "32160": {
+    "name": "Wooden mast and linen sails",
+    "highalch": 0
+  },
+  "32161": {
+    "name": "Wooden mast and linen sails",
+    "highalch": 0
+  },
+  "32162": {
+    "name": "Wooden mast and linen sails",
+    "highalch": 0
+  },
+  "32163": {
+    "name": "Oak mast and linen sails",
+    "highalch": 0
+  },
+  "32164": {
+    "name": "Oak mast and linen sails",
+    "highalch": 0
+  },
+  "32165": {
+    "name": "Oak mast and linen sails",
+    "highalch": 0
+  },
+  "32166": {
+    "name": "Teak mast and canvas sails",
+    "highalch": 0
+  },
+  "32167": {
+    "name": "Teak mast and linen sails",
+    "highalch": 0
+  },
+  "32168": {
+    "name": "Teak mast and linen sails",
+    "highalch": 0
+  },
+  "32169": {
+    "name": "Mahogany mast and canvas sails",
+    "highalch": 0
+  },
+  "32170": {
+    "name": "Mahogany mast and linen sails",
+    "highalch": 0
+  },
+  "32171": {
+    "name": "Mahogany mast and linen sails",
+    "highalch": 0
+  },
+  "32172": {
+    "name": "Camphor mast and canvas sails",
+    "highalch": 0
+  },
+  "32173": {
+    "name": "Camphor mast and linen sails",
+    "highalch": 0
+  },
+  "32174": {
+    "name": "Camphor mast and linen sails",
+    "highalch": 0
+  },
+  "32175": {
+    "name": "Ironwood mast and cotton sails",
+    "highalch": 0
+  },
+  "32176": {
+    "name": "Ironwood mast and linen sails",
+    "highalch": 0
+  },
+  "32177": {
+    "name": "Ironwood mast and linen sails",
+    "highalch": 0
+  },
+  "32178": {
+    "name": "Rosewood mast and cotton sails",
+    "highalch": 0
+  },
+  "32179": {
+    "name": "Rosewood mast and linen sails",
+    "highalch": 0
+  },
+  "32180": {
+    "name": "Rosewood mast and linen sails",
+    "highalch": 0
+  },
+  "32181": {
+    "name": "Bronze keel",
+    "highalch": 0
+  },
+  "32182": {
+    "name": "Bronze keel",
+    "highalch": 0
+  },
+  "32183": {
+    "name": "Iron keel",
+    "highalch": 0
+  },
+  "32184": {
+    "name": "Iron keel",
+    "highalch": 0
+  },
+  "32185": {
+    "name": "Steel keel",
+    "highalch": 0
+  },
+  "32186": {
+    "name": "Steel keel",
+    "highalch": 0
+  },
+  "32187": {
+    "name": "Mithril keel",
+    "highalch": 0
+  },
+  "32188": {
+    "name": "Mithril keel",
+    "highalch": 0
+  },
+  "32189": {
+    "name": "Adamant keel",
+    "highalch": 0
+  },
+  "32190": {
+    "name": "Adamant keel",
+    "highalch": 0
+  },
+  "32191": {
+    "name": "Rune keel",
+    "highalch": 0
+  },
+  "32192": {
+    "name": "Rune keel",
+    "highalch": 0
+  },
+  "32193": {
+    "name": "Dragon keel",
+    "highalch": 0
+  },
+  "32194": {
+    "name": "Dragon keel",
+    "highalch": 0
+  },
+  "32195": {
+    "name": "Eternal brazier",
+    "highalch": 0
+  },
+  "32196": {
+    "name": "Flag",
+    "highalch": 0
+  },
+  "32197": {
+    "name": "Flag",
+    "highalch": 0
+  },
+  "32198": {
+    "name": "Flag",
+    "highalch": 0
+  },
+  "32199": {
+    "name": "Bronze cannon",
+    "highalch": 0
+  },
+  "32200": {
+    "name": "Iron cannon",
+    "highalch": 0
+  },
+  "32201": {
+    "name": "Steel cannon",
+    "highalch": 0
+  },
+  "32202": {
+    "name": "Mithril cannon",
+    "highalch": 0
+  },
+  "32203": {
+    "name": "Adamant cannon",
+    "highalch": 0
+  },
+  "32204": {
+    "name": "Rune cannon",
+    "highalch": 0
+  },
+  "32205": {
+    "name": "Dragon cannon",
+    "highalch": 0
+  },
+  "32206": {
+    "name": "Bronze salvaging hook",
+    "highalch": 0
+  },
+  "32207": {
+    "name": "Iron salvaging hook",
+    "highalch": 0
+  },
+  "32208": {
+    "name": "Steel salvaging hook",
+    "highalch": 0
+  },
+  "32209": {
+    "name": "Mithril salvaging hook",
+    "highalch": 0
+  },
+  "32210": {
+    "name": "Adamant salvaging hook",
+    "highalch": 0
+  },
+  "32211": {
+    "name": "Rune salvaging hook",
+    "highalch": 0
+  },
+  "32212": {
+    "name": "Dragon salvaging hook",
+    "highalch": 0
+  },
+  "32213": {
+    "name": "Wooden cargo hold",
+    "highalch": 0
+  },
+  "32214": {
+    "name": "Oak cargo hold",
+    "highalch": 0
+  },
+  "32215": {
+    "name": "Teak cargo hold",
+    "highalch": 0
+  },
+  "32216": {
+    "name": "Mahogany cargo hold",
+    "highalch": 0
+  },
+  "32217": {
+    "name": "Camphor cargo hold",
+    "highalch": 0
+  },
+  "32218": {
+    "name": "Ironwood cargo hold",
+    "highalch": 0
+  },
+  "32219": {
+    "name": "Rosewood cargo hold",
+    "highalch": 0
+  },
+  "32220": {
+    "name": "Rope trawling net",
+    "highalch": 0
+  },
+  "32221": {
+    "name": "Linen trawling net",
+    "highalch": 0
+  },
+  "32222": {
+    "name": "Hemp trawling net",
+    "highalch": 0
+  },
+  "32223": {
+    "name": "Cotton trawling net",
+    "highalch": 0
+  },
+  "32224": {
+    "name": "Salvaging station",
+    "highalch": 0
+  },
+  "32225": {
+    "name": "Chum station",
+    "highalch": 0
+  },
+  "32226": {
+    "name": "Advanced chum station",
+    "highalch": 0
+  },
+  "32227": {
+    "name": "Chum spreader",
+    "highalch": 0
+  },
+  "32228": {
+    "name": "Fathom stone",
+    "highalch": 0
+  },
+  "32229": {
+    "name": "Fathom pearl",
+    "highalch": 0
+  },
+  "32230": {
+    "name": "Range",
+    "highalch": 0
+  },
+  "32231": {
+    "name": "Keg",
+    "highalch": 0
+  },
+  "32232": {
+    "name": "Anchor",
+    "highalch": 0
+  },
+  "32233": {
+    "name": "Wind catcher",
+    "highalch": 0
+  },
+  "32234": {
+    "name": "Gale catcher",
+    "highalch": 0
+  },
+  "32235": {
+    "name": "Crystal extractor",
+    "highalch": 0
+  },
+  "32236": {
+    "name": "Inoculation station",
+    "highalch": 0
+  },
+  "32237": {
+    "name": "Teleport focus",
+    "highalch": 0
+  },
+  "32238": {
+    "name": "Greater teleport focus",
+    "highalch": 0
+  },
+  "32239": {
+    "name": "Hull wood",
+    "highalch": 0
+  },
+  "32240": {
+    "name": "Hull wood",
+    "highalch": 0
+  },
+  "32241": {
+    "name": "Hull wood",
+    "highalch": 0
+  },
+  "32242": {
+    "name": "Mystery ingredient",
+    "highalch": 0
+  },
+  "32243": {
+    "name": "Crew slot unlock",
+    "highalch": 0
+  },
+  "32244": {
+    "name": "Cargo crate",
+    "highalch": 0
+  },
+  "32245": {
+    "name": "Crewmate",
+    "highalch": 0
+  },
+  "32246": {
+    "name": "Crewmate",
+    "highalch": 0
+  },
+  "32247": {
+    "name": "Crewmate",
+    "highalch": 0
+  },
+  "32248": {
+    "name": "Crewmate",
+    "highalch": 0
+  },
+  "32249": {
+    "name": "Crewmate",
+    "highalch": 0
+  },
+  "32250": {
+    "name": "Crewmate",
+    "highalch": 0
+  },
+  "32251": {
+    "name": "Crewmate",
+    "highalch": 0
+  },
+  "32252": {
+    "name": "Crewmate",
+    "highalch": 0
+  },
+  "32253": {
+    "name": "Crewmate",
+    "highalch": 0
+  },
+  "32254": {
+    "name": "Crewmate",
+    "highalch": 0
+  },
+  "32255": {
+    "name": "Port task",
+    "highalch": 0
+  },
+  "32256": {
+    "name": "Port",
+    "highalch": 0
+  },
+  "32257": {
+    "name": "Port sarim",
+    "highalch": 0
+  },
+  "32258": {
+    "name": "The pandemonium",
+    "highalch": 0
+  },
+  "32259": {
+    "name": "Land's end",
+    "highalch": 0
+  },
+  "32260": {
+    "name": "Hosidius",
+    "highalch": 0
+  },
+  "32261": {
+    "name": "Musa point",
+    "highalch": 0
+  },
+  "32262": {
+    "name": "Port piscarillius",
+    "highalch": 0
+  },
+  "32263": {
+    "name": "Rimmington",
+    "highalch": 0
+  },
+  "32264": {
+    "name": "Catherby",
+    "highalch": 0
+  },
+  "32265": {
+    "name": "Brimhaven",
+    "highalch": 0
+  },
+  "32266": {
+    "name": "Ardougne",
+    "highalch": 0
+  },
+  "32267": {
+    "name": "Port khazard",
+    "highalch": 0
+  },
+  "32268": {
+    "name": "Witchaven",
+    "highalch": 0
+  },
+  "32269": {
+    "name": "Entrana",
+    "highalch": 0
+  },
+  "32270": {
+    "name": "Civitas illa fortis",
+    "highalch": 0
+  },
+  "32271": {
+    "name": "Corsair cove",
+    "highalch": 0
+  },
+  "32272": {
+    "name": "Cairn isle",
+    "highalch": 0
+  },
+  "32273": {
+    "name": "Sunset coast",
+    "highalch": 0
+  },
+  "32274": {
+    "name": "Summer shore",
+    "highalch": 0
+  },
+  "32275": {
+    "name": "Aldarin",
+    "highalch": 0
+  },
+  "32276": {
+    "name": "Ruins of unkah",
+    "highalch": 0
+  },
+  "32277": {
+    "name": "Void knights' outpost",
+    "highalch": 0
+  },
+  "32278": {
+    "name": "Port roberts",
+    "highalch": 0
+  },
+  "32279": {
+    "name": "Red rock",
+    "highalch": 0
+  },
+  "32280": {
+    "name": "Rellekka",
+    "highalch": 0
+  },
+  "32281": {
+    "name": "Etceteria",
+    "highalch": 0
+  },
+  "32282": {
+    "name": "Port tyras",
+    "highalch": 0
+  },
+  "32283": {
+    "name": "Deepfin point",
+    "highalch": 0
+  },
+  "32284": {
+    "name": "Jatizo",
+    "highalch": 0
+  },
+  "32285": {
+    "name": "Neitiznot",
+    "highalch": 0
+  },
+  "32286": {
+    "name": "Prifddinas",
+    "highalch": 0
+  },
+  "32287": {
+    "name": "Piscatoris",
+    "highalch": 0
+  },
+  "32288": {
+    "name": "Lunar isle",
+    "highalch": 0
+  },
+  "32289": {
+    "name": "Port task",
+    "highalch": 0
+  },
+  "32290": {
+    "name": "Ardent ocean",
+    "highalch": 0
+  },
+  "32291": {
+    "name": "Unquiet ocean",
+    "highalch": 0
+  },
+  "32292": {
+    "name": "Shrouded ocean",
+    "highalch": 0
+  },
+  "32293": {
+    "name": "Sunset ocean",
+    "highalch": 0
+  },
+  "32294": {
+    "name": "Western ocean",
+    "highalch": 0
+  },
+  "32295": {
+    "name": "Eastern ocean",
+    "highalch": 0
+  },
+  "32296": {
+    "name": "Northern ocean",
+    "highalch": 0
+  },
+  "32297": {
+    "name": "Forgotten ocean",
+    "highalch": 0
+  },
+  "32298": {
+    "name": "Untamed ocean",
+    "highalch": 0
+  },
+  "32299": {
+    "name": "Trim",
+    "highalch": 0
+  },
+  "32300": {
+    "name": "Repair kit",
+    "highalch": 2
+  },
+  "32301": {
+    "name": "Oak repair kit",
+    "highalch": 2
+  },
+  "32302": {
+    "name": "Teak repair kit",
+    "highalch": 2
+  },
+  "32303": {
+    "name": "Mahogany repair kit",
+    "highalch": 2
+  },
+  "32304": {
+    "name": "Camphor repair kit",
+    "highalch": 2
+  },
+  "32305": {
+    "name": "Ironwood repair kit",
+    "highalch": 2
+  },
+  "32306": {
+    "name": "Rosewood repair kit",
+    "highalch": 2
+  },
+  "32307": {
+    "name": "Fine fish offcuts",
+    "highalch": 0
+  },
+  "32309": {
+    "name": "Raw giant krill",
+    "highalch": 102
+  },
+  "32312": {
+    "name": "Giant krill",
+    "highalch": 102
+  },
+  "32315": {
+    "name": "Burnt giant krill",
+    "highalch": 0
+  },
+  "32317": {
+    "name": "Raw haddock",
+    "highalch": 102
+  },
+  "32320": {
+    "name": "Haddock",
+    "highalch": 102
+  },
+  "32323": {
+    "name": "Burnt haddock",
+    "highalch": 0
+  },
+  "32325": {
+    "name": "Raw yellowfin",
+    "highalch": 102
+  },
+  "32328": {
+    "name": "Yellowfin",
+    "highalch": 102
+  },
+  "32331": {
+    "name": "Burnt yellowfin",
+    "highalch": 0
+  },
+  "32333": {
+    "name": "Raw halibut",
+    "highalch": 102
+  },
+  "32336": {
+    "name": "Halibut",
+    "highalch": 102
+  },
+  "32339": {
+    "name": "Burnt halibut",
+    "highalch": 0
+  },
+  "32341": {
+    "name": "Raw bluefin",
+    "highalch": 102
+  },
+  "32344": {
+    "name": "Bluefin",
+    "highalch": 102
+  },
+  "32347": {
+    "name": "Burnt bluefin",
+    "highalch": 0
+  },
+  "32349": {
+    "name": "Raw marlin",
+    "highalch": 102
+  },
+  "32352": {
+    "name": "Marlin",
+    "highalch": 102
+  },
+  "32355": {
+    "name": "Burnt marlin",
+    "highalch": 0
+  },
+  "32357": {
+    "name": "Haddock eye",
+    "highalch": 1
+  },
+  "32360": {
+    "name": "Yellow fin",
+    "highalch": 300
+  },
+  "32362": {
+    "name": "Marlin scales",
+    "highalch": 30
+  },
+  "32364": {
+    "name": "Camphor crate",
+    "highalch": 3
+  },
+  "32366": {
+    "name": "Fish crate (empty)",
+    "highalch": 3
+  },
+  "32368": {
+    "name": "Fish crate (giant krill)",
+    "highalch": 3
+  },
+  "32370": {
+    "name": "Fish crate (giant krill)",
+    "highalch": 3
+  },
+  "32371": {
+    "name": "Fish crate (haddock)",
+    "highalch": 3
+  },
+  "32373": {
+    "name": "Fish crate (haddock)",
+    "highalch": 3
+  },
+  "32374": {
+    "name": "Fish crate (yellowfin)",
+    "highalch": 3
+  },
+  "32376": {
+    "name": "Fish crate (yellowfin)",
+    "highalch": 3
+  },
+  "32377": {
+    "name": "Fish crate (halibut)",
+    "highalch": 3
+  },
+  "32379": {
+    "name": "Fish crate (halibut)",
+    "highalch": 3
+  },
+  "32380": {
+    "name": "Fish crate (bluefin)",
+    "highalch": 3
+  },
+  "32382": {
+    "name": "Fish crate (bluefin)",
+    "highalch": 3
+  },
+  "32383": {
+    "name": "Fish crate (marlin)",
+    "highalch": 3
+  },
+  "32385": {
+    "name": "Fish crate (marlin)",
+    "highalch": 3
+  },
+  "32386": {
+    "name": "Medallion of the deep",
+    "highalch": 120
+  },
+  "32388": {
+    "name": "Medallion fragment",
+    "highalch": 0
+  },
+  "32389": {
+    "name": "Medallion fragment",
+    "highalch": 0
+  },
+  "32390": {
+    "name": "Medallion fragment",
+    "highalch": 0
+  },
+  "32391": {
+    "name": "Medallion fragment",
+    "highalch": 0
+  },
+  "32392": {
+    "name": "Medallion fragment",
+    "highalch": 0
+  },
+  "32393": {
+    "name": "Medallion fragment",
+    "highalch": 0
+  },
+  "32394": {
+    "name": "Medallion fragment",
+    "highalch": 0
+  },
+  "32395": {
+    "name": "Medallion fragment",
+    "highalch": 0
+  },
+  "32396": {
+    "name": "Waterlogged journal",
+    "highalch": 1
+  },
+  "32398": {
+    "name": "Sailors' amulet (inert)",
+    "highalch": 0
+  },
+  "32399": {
+    "name": "Sailors' amulet",
+    "highalch": 0
+  },
+  "32401": {
+    "name": "Salvaging station schematic",
+    "highalch": 0
+  },
+  "32402": {
+    "name": "Gale catcher schematic",
+    "highalch": 0
+  },
+  "32403": {
+    "name": "Eternal brazier schematic",
+    "highalch": 0
+  },
+  "32404": {
+    "name": "Dragon salvaging hook schematic",
+    "highalch": 0
+  },
+  "32405": {
+    "name": "Rosewood cargo hold schematic",
+    "highalch": 0
+  },
+  "32406": {
+    "name": "Dragon cannon schematic",
+    "highalch": 0
+  },
+  "32407": {
+    "name": "Rosewood hull schematic",
+    "highalch": 0
+  },
+  "32408": {
+    "name": "Rosewood & cotton sails schematic",
+    "highalch": 0
+  },
+  "32409": {
+    "name": "Dragon helm schematic",
+    "highalch": 0
+  },
+  "32410": {
+    "name": "Dragon keel schematic",
+    "highalch": 0
+  },
+  "32411": {
+    "name": "Small key (the pandemonium)",
+    "highalch": 0
+  },
+  "32412": {
+    "name": "Small key (the onyx crest)",
+    "highalch": 0
+  },
+  "32413": {
+    "name": "Small key (tear of the soul)",
+    "highalch": 0
+  },
+  "32414": {
+    "name": "Small key (ynsdail)",
+    "highalch": 0
+  },
+  "32415": {
+    "name": "Small key (minotaurs' rest)",
+    "highalch": 0
+  },
+  "32416": {
+    "name": "Small key (buccaneers' haven)",
+    "highalch": 0
+  },
+  "32417": {
+    "name": "Small key (isle of bones)",
+    "highalch": 0
+  },
+  "32418": {
+    "name": "Small key (charred island)",
+    "highalch": 0
+  },
+  "32419": {
+    "name": "Small key (laguna aurorae)",
+    "highalch": 0
+  },
+  "32420": {
+    "name": "Small key (drumstick isle)",
+    "highalch": 0
+  },
+  "32421": {
+    "name": "Lockbox directions (chinchompa island)",
+    "highalch": 0
+  },
+  "32422": {
+    "name": "Lockbox directions (anglers' retreat)",
+    "highalch": 0
+  },
+  "32423": {
+    "name": "Lockbox directions (buccaneers' haven)",
+    "highalch": 0
+  },
+  "32424": {
+    "name": "Lockbox directions (lledrith island)",
+    "highalch": 0
+  },
+  "32425": {
+    "name": "Lockbox directions (the crown jewel)",
+    "highalch": 0
+  },
+  "32426": {
+    "name": "Lockbox directions (deepfin point)",
+    "highalch": 0
+  },
+  "32427": {
+    "name": "Lockbox directions (shimmering atoll)",
+    "highalch": 0
+  },
+  "32428": {
+    "name": "Lockbox directions (brittle isle)",
+    "highalch": 0
+  },
+  "32429": {
+    "name": "Lockbox directions (sunbleak island)",
+    "highalch": 0
+  },
+  "32430": {
+    "name": "Lockbox directions (grimstone)",
+    "highalch": 0
+  },
+  "32431": {
+    "name": "Book about lighthouses",
+    "highalch": 18
+  },
+  "32432": {
+    "name": "Charred key",
+    "highalch": 0
+  },
+  "32433": {
+    "name": "Void orb",
+    "highalch": 0
+  },
+  "32434": {
+    "name": "Holy sheet",
+    "highalch": 0
+  },
+  "32435": {
+    "name": "Crate of adamantite ore",
+    "highalch": 0
+  },
+  "32436": {
+    "name": "Crate of crab paste",
+    "highalch": 0
+  },
+  "32437": {
+    "name": "Crate of crystal seeds",
+    "highalch": 0
+  },
+  "32438": {
+    "name": "Crate of daggers",
+    "highalch": 0
+  },
+  "32439": {
+    "name": "Crate of dyes",
+    "highalch": 0
+  },
+  "32440": {
+    "name": "Crate of furs",
+    "highalch": 0
+  },
+  "32441": {
+    "name": "Crate of jewellery",
+    "highalch": 0
+  },
+  "32442": {
+    "name": "Crate of lead ore",
+    "highalch": 0
+  },
+  "32443": {
+    "name": "Crate of monkfish",
+    "highalch": 0
+  },
+  "32444": {
+    "name": "Crate of nickel ore",
+    "highalch": 0
+  },
+  "32445": {
+    "name": "Crate of pest remains",
+    "highalch": 0
+  },
+  "32446": {
+    "name": "Crate of platebodies",
+    "highalch": 0
+  },
+  "32447": {
+    "name": "Crate of spears",
+    "highalch": 0
+  },
+  "32448": {
+    "name": "Crate of arrowtips",
+    "highalch": 0
+  },
+  "32449": {
+    "name": "Crate of bananas",
+    "highalch": 0
+  },
+  "32450": {
+    "name": "Crate of crystal seeds",
+    "highalch": 0
+  },
+  "32451": {
+    "name": "Crate of fish",
+    "highalch": 0
+  },
+  "32452": {
+    "name": "Crate of furs",
+    "highalch": 0
+  },
+  "32453": {
+    "name": "Crate of gold ore",
+    "highalch": 0
+  },
+  "32454": {
+    "name": "Crate of halberds",
+    "highalch": 0
+  },
+  "32455": {
+    "name": "Crate of jewellery",
+    "highalch": 0
+  },
+  "32456": {
+    "name": "Crate of poison",
+    "highalch": 0
+  },
+  "32457": {
+    "name": "Crate of rabbit meat",
+    "highalch": 0
+  },
+  "32458": {
+    "name": "Crate of red coral",
+    "highalch": 0
+  },
+  "32459": {
+    "name": "Crate of runes",
+    "highalch": 0
+  },
+  "32460": {
+    "name": "Crate of salamanders",
+    "highalch": 0
+  },
+  "32461": {
+    "name": "Crate of sand",
+    "highalch": 0
+  },
+  "32462": {
+    "name": "Crate of silk",
+    "highalch": 0
+  },
+  "32463": {
+    "name": "Crate of spices",
+    "highalch": 0
+  },
+  "32464": {
+    "name": "Crate of bear meat",
+    "highalch": 0
+  },
+  "32465": {
+    "name": "Crate of beer",
+    "highalch": 0
+  },
+  "32466": {
+    "name": "Crate of cacti",
+    "highalch": 0
+  },
+  "32467": {
+    "name": "Crate of camphor logs",
+    "highalch": 0
+  },
+  "32468": {
+    "name": "Crate of compost",
+    "highalch": 0
+  },
+  "32469": {
+    "name": "Crate of fish",
+    "highalch": 0
+  },
+  "32470": {
+    "name": "Crate of gems",
+    "highalch": 0
+  },
+  "32471": {
+    "name": "Crate of iron bars",
+    "highalch": 0
+  },
+  "32472": {
+    "name": "Crate of jewellery",
+    "highalch": 0
+  },
+  "32473": {
+    "name": "Crate of machinery parts",
+    "highalch": 0
+  },
+  "32474": {
+    "name": "Crate of rum",
+    "highalch": 0
+  },
+  "32475": {
+    "name": "Crate of sandstone",
+    "highalch": 0
+  },
+  "32476": {
+    "name": "Crate of silver ore",
+    "highalch": 0
+  },
+  "32477": {
+    "name": "Crate of spices",
+    "highalch": 0
+  },
+  "32478": {
+    "name": "Crate of vodka",
+    "highalch": 0
+  },
+  "32479": {
+    "name": "Crate of wine",
+    "highalch": 0
+  },
+  "32480": {
+    "name": "Crate of gold bars",
+    "highalch": 0
+  },
+  "32481": {
+    "name": "Crate of secret stuff",
+    "highalch": 0
+  },
+  "32482": {
+    "name": "Crate of arrowtips",
+    "highalch": 0
+  },
+  "32483": {
+    "name": "Crate of bait",
+    "highalch": 0
+  },
+  "32484": {
+    "name": "Crate of feathers",
+    "highalch": 0
+  },
+  "32485": {
+    "name": "Crate of bananas",
+    "highalch": 0
+  },
+  "32486": {
+    "name": "Crate of coconuts",
+    "highalch": 0
+  },
+  "32487": {
+    "name": "Crate of furs",
+    "highalch": 0
+  },
+  "32488": {
+    "name": "Crate of glassmaking supplies",
+    "highalch": 0
+  },
+  "32489": {
+    "name": "Crate of gold ore",
+    "highalch": 0
+  },
+  "32490": {
+    "name": "Crate of grog",
+    "highalch": 0
+  },
+  "32491": {
+    "name": "Crate of javelins",
+    "highalch": 0
+  },
+  "32492": {
+    "name": "Crate of jewellery",
+    "highalch": 0
+  },
+  "32493": {
+    "name": "Crate of karambwans",
+    "highalch": 0
+  },
+  "32494": {
+    "name": "Crate of pineapples",
+    "highalch": 0
+  },
+  "32495": {
+    "name": "Crate of potatoes",
+    "highalch": 0
+  },
+  "32496": {
+    "name": "Crate of seeds",
+    "highalch": 0
+  },
+  "32497": {
+    "name": "Crate of silk",
+    "highalch": 0
+  },
+  "32498": {
+    "name": "Crate of silver ore",
+    "highalch": 0
+  },
+  "32499": {
+    "name": "Crate of vials",
+    "highalch": 0
+  },
+  "32500": {
+    "name": "Crate of astral runes",
+    "highalch": 0
+  },
+  "32501": {
+    "name": "Crate of books",
+    "highalch": 0
+  },
+  "32502": {
+    "name": "Crate of coral",
+    "highalch": 0
+  },
+  "32503": {
+    "name": "Crate of fish",
+    "highalch": 0
+  },
+  "32504": {
+    "name": "Crate of fruit",
+    "highalch": 0
+  },
+  "32505": {
+    "name": "Crate of gems",
+    "highalch": 0
+  },
+  "32506": {
+    "name": "Crate of historical artefacts",
+    "highalch": 0
+  },
+  "32507": {
+    "name": "Crate of nickel ore",
+    "highalch": 0
+  },
+  "32508": {
+    "name": "Crate of oranges",
+    "highalch": 0
+  },
+  "32509": {
+    "name": "Crate of ores",
+    "highalch": 0
+  },
+  "32510": {
+    "name": "Crate of pineapples",
+    "highalch": 0
+  },
+  "32511": {
+    "name": "Crate of red coral",
+    "highalch": 0
+  },
+  "32512": {
+    "name": "Crate of runes",
+    "highalch": 0
+  },
+  "32513": {
+    "name": "Crate of seeds",
+    "highalch": 0
+  },
+  "32514": {
+    "name": "Crate of ship parts",
+    "highalch": 0
+  },
+  "32515": {
+    "name": "Crate of spices",
+    "highalch": 0
+  },
+  "32516": {
+    "name": "Crate of staffs",
+    "highalch": 0
+  },
+  "32517": {
+    "name": "Crate of tokens",
+    "highalch": 0
+  },
+  "32518": {
+    "name": "Crate of vegetables",
+    "highalch": 0
+  },
+  "32519": {
+    "name": "Crate of arrowtips",
+    "highalch": 0
+  },
+  "32520": {
+    "name": "Crate of bear meat",
+    "highalch": 0
+  },
+  "32521": {
+    "name": "Crate of beer",
+    "highalch": 0
+  },
+  "32522": {
+    "name": "Crate of daggers",
+    "highalch": 0
+  },
+  "32523": {
+    "name": "Crate of fish",
+    "highalch": 0
+  },
+  "32524": {
+    "name": "Crate of gems",
+    "highalch": 0
+  },
+  "32525": {
+    "name": "Crate of khali brews",
+    "highalch": 0
+  },
+  "32526": {
+    "name": "Crate of peg legs",
+    "highalch": 0
+  },
+  "32527": {
+    "name": "Crate of platebodies",
+    "highalch": 0
+  },
+  "32528": {
+    "name": "Crate of rum",
+    "highalch": 0
+  },
+  "32529": {
+    "name": "Crate of scimitars",
+    "highalch": 0
+  },
+  "32530": {
+    "name": "Crate of ship parts",
+    "highalch": 0
+  },
+  "32531": {
+    "name": "Crate of swords",
+    "highalch": 0
+  },
+  "32532": {
+    "name": "Crate of alpaca wool",
+    "highalch": 0
+  },
+  "32533": {
+    "name": "Crate of camphor logs",
+    "highalch": 0
+  },
+  "32534": {
+    "name": "Crate of fabrics",
+    "highalch": 0
+  },
+  "32535": {
+    "name": "Crate of fruit",
+    "highalch": 0
+  },
+  "32536": {
+    "name": "Crate of furs",
+    "highalch": 0
+  },
+  "32537": {
+    "name": "Crate of granite",
+    "highalch": 0
+  },
+  "32538": {
+    "name": "Crate of javelins",
+    "highalch": 0
+  },
+  "32539": {
+    "name": "Crate of logs",
+    "highalch": 0
+  },
+  "32540": {
+    "name": "Crate of machinery parts",
+    "highalch": 0
+  },
+  "32541": {
+    "name": "Crate of mahogany logs",
+    "highalch": 0
+  },
+  "32542": {
+    "name": "Crate of pest remains",
+    "highalch": 0
+  },
+  "32543": {
+    "name": "Crate of pickaxes",
+    "highalch": 0
+  },
+  "32544": {
+    "name": "Crate of planks",
+    "highalch": 0
+  },
+  "32545": {
+    "name": "Crate of suqah hides",
+    "highalch": 0
+  },
+  "32546": {
+    "name": "Crate of warhammers",
+    "highalch": 0
+  },
+  "32547": {
+    "name": "Crate of bananas",
+    "highalch": 0
+  },
+  "32548": {
+    "name": "Crate of barley",
+    "highalch": 0
+  },
+  "32549": {
+    "name": "Crate of sand",
+    "highalch": 0
+  },
+  "32550": {
+    "name": "Crate of adamantite ore",
+    "highalch": 0
+  },
+  "32551": {
+    "name": "Crate of fish",
+    "highalch": 0
+  },
+  "32552": {
+    "name": "Crate of fruit",
+    "highalch": 0
+  },
+  "32553": {
+    "name": "Crate of iron ore",
+    "highalch": 0
+  },
+  "32554": {
+    "name": "Crate of monkfish",
+    "highalch": 0
+  },
+  "32555": {
+    "name": "Crate of onions",
+    "highalch": 0
+  },
+  "32556": {
+    "name": "Crate of planks",
+    "highalch": 0
+  },
+  "32557": {
+    "name": "Crate of swords",
+    "highalch": 0
+  },
+  "32558": {
+    "name": "Crate of warhammers",
+    "highalch": 0
+  },
+  "32559": {
+    "name": "Crate of yak hair",
+    "highalch": 0
+  },
+  "32560": {
+    "name": "Crate of fish",
+    "highalch": 0
+  },
+  "32561": {
+    "name": "Crate of lead ore",
+    "highalch": 0
+  },
+  "32562": {
+    "name": "Crate of rope",
+    "highalch": 0
+  },
+  "32563": {
+    "name": "Crate of xerician fabrics",
+    "highalch": 0
+  },
+  "32564": {
+    "name": "Crate of fish",
+    "highalch": 0
+  },
+  "32565": {
+    "name": "Crate of flax",
+    "highalch": 0
+  },
+  "32566": {
+    "name": "Crate of logs",
+    "highalch": 0
+  },
+  "32567": {
+    "name": "Crate of bear meat",
+    "highalch": 0
+  },
+  "32568": {
+    "name": "Crate of fish",
+    "highalch": 0
+  },
+  "32569": {
+    "name": "Crate of furs",
+    "highalch": 0
+  },
+  "32570": {
+    "name": "Crate of gems",
+    "highalch": 0
+  },
+  "32571": {
+    "name": "Crate of kebbit fur",
+    "highalch": 0
+  },
+  "32572": {
+    "name": "Crate of meat",
+    "highalch": 0
+  },
+  "32573": {
+    "name": "Crate of ores",
+    "highalch": 0
+  },
+  "32574": {
+    "name": "Crate of secret things",
+    "highalch": 0
+  },
+  "32575": {
+    "name": "Crate of swords",
+    "highalch": 0
+  },
+  "32576": {
+    "name": "Crate of vegetables",
+    "highalch": 0
+  },
+  "32577": {
+    "name": "Crate of wine",
+    "highalch": 0
+  },
+  "32578": {
+    "name": "Crate of antelope fur",
+    "highalch": 0
+  },
+  "32579": {
+    "name": "Crate of berries",
+    "highalch": 0
+  },
+  "32580": {
+    "name": "Crate of coal",
+    "highalch": 0
+  },
+  "32581": {
+    "name": "Crate of crystal seeds",
+    "highalch": 0
+  },
+  "32582": {
+    "name": "Crate of fish",
+    "highalch": 0
+  },
+  "32583": {
+    "name": "Crate of furs",
+    "highalch": 0
+  },
+  "32584": {
+    "name": "Crate of kebbit fur",
+    "highalch": 0
+  },
+  "32585": {
+    "name": "Crate of logs",
+    "highalch": 0
+  },
+  "32586": {
+    "name": "Crate of potions",
+    "highalch": 0
+  },
+  "32587": {
+    "name": "Crate of red coral",
+    "highalch": 0
+  },
+  "32588": {
+    "name": "Crate of bananas",
+    "highalch": 0
+  },
+  "32589": {
+    "name": "Crate of beer glasses",
+    "highalch": 0
+  },
+  "32590": {
+    "name": "Crate of cocktails",
+    "highalch": 0
+  },
+  "32591": {
+    "name": "Crate of eye patches",
+    "highalch": 0
+  },
+  "32592": {
+    "name": "Crate of fish",
+    "highalch": 0
+  },
+  "32593": {
+    "name": "Crate of high importance",
+    "highalch": 0
+  },
+  "32594": {
+    "name": "Crate of honey",
+    "highalch": 0
+  },
+  "32595": {
+    "name": "Crate of lobsters",
+    "highalch": 0
+  },
+  "32596": {
+    "name": "Crate of logs",
+    "highalch": 0
+  },
+  "32597": {
+    "name": "Crate of mahogany logs",
+    "highalch": 0
+  },
+  "32598": {
+    "name": "Crate of meat",
+    "highalch": 0
+  },
+  "32599": {
+    "name": "Crate of rotten bananas",
+    "highalch": 0
+  },
+  "32600": {
+    "name": "Crate of secret stuff",
+    "highalch": 0
+  },
+  "32601": {
+    "name": "Crate of ship parts",
+    "highalch": 0
+  },
+  "32602": {
+    "name": "Crate of silk",
+    "highalch": 0
+  },
+  "32603": {
+    "name": "Crate of coal",
+    "highalch": 0
+  },
+  "32604": {
+    "name": "Crate of mahogany logs",
+    "highalch": 0
+  },
+  "32605": {
+    "name": "Crate of sand",
+    "highalch": 0
+  },
+  "32606": {
+    "name": "Crate of fabrics",
+    "highalch": 0
+  },
+  "32607": {
+    "name": "Crate of fish",
+    "highalch": 0
+  },
+  "32608": {
+    "name": "Crate of flax",
+    "highalch": 0
+  },
+  "32609": {
+    "name": "Crate of furs",
+    "highalch": 0
+  },
+  "32610": {
+    "name": "Crate of potions",
+    "highalch": 0
+  },
+  "32611": {
+    "name": "Crate of vodka",
+    "highalch": 0
+  },
+  "32612": {
+    "name": "Crate of angler outfit pieces",
+    "highalch": 0
+  },
+  "32613": {
+    "name": "Crate of arrowtips",
+    "highalch": 0
+  },
+  "32614": {
+    "name": "Crate of bows",
+    "highalch": 0
+  },
+  "32615": {
+    "name": "Crate of bread",
+    "highalch": 0
+  },
+  "32616": {
+    "name": "Crate of chainbodies",
+    "highalch": 0
+  },
+  "32617": {
+    "name": "Crate of coal",
+    "highalch": 0
+  },
+  "32618": {
+    "name": "Crate of crab paste",
+    "highalch": 0
+  },
+  "32619": {
+    "name": "Crate of fruit",
+    "highalch": 0
+  },
+  "32620": {
+    "name": "Crate of gunpowder",
+    "highalch": 0
+  },
+  "32621": {
+    "name": "Crate of herbs",
+    "highalch": 0
+  },
+  "32622": {
+    "name": "Crate of huasca",
+    "highalch": 0
+  },
+  "32623": {
+    "name": "Crate of kyatt teeth",
+    "highalch": 0
+  },
+  "32624": {
+    "name": "Crate of planks",
+    "highalch": 0
+  },
+  "32625": {
+    "name": "Crate of platebodies",
+    "highalch": 0
+  },
+  "32626": {
+    "name": "Crate of red coral",
+    "highalch": 0
+  },
+  "32627": {
+    "name": "Crate of scimitars",
+    "highalch": 0
+  },
+  "32628": {
+    "name": "Crate of secret stuff",
+    "highalch": 0
+  },
+  "32629": {
+    "name": "Crate of spears",
+    "highalch": 0
+  },
+  "32630": {
+    "name": "Crate of swamp paste",
+    "highalch": 0
+  },
+  "32631": {
+    "name": "Crate of vodka",
+    "highalch": 0
+  },
+  "32632": {
+    "name": "Crate of antelope meat",
+    "highalch": 0
+  },
+  "32633": {
+    "name": "Crate of astral runes",
+    "highalch": 0
+  },
+  "32634": {
+    "name": "Crate of books",
+    "highalch": 0
+  },
+  "32635": {
+    "name": "Crate of cannonballs",
+    "highalch": 0
+  },
+  "32636": {
+    "name": "Crate of coal",
+    "highalch": 0
+  },
+  "32637": {
+    "name": "Crate of fabrics",
+    "highalch": 0
+  },
+  "32638": {
+    "name": "Crate of furs",
+    "highalch": 0
+  },
+  "32639": {
+    "name": "Crate of gems",
+    "highalch": 0
+  },
+  "32640": {
+    "name": "Crate of gin",
+    "highalch": 0
+  },
+  "32641": {
+    "name": "Crate of honey",
+    "highalch": 0
+  },
+  "32642": {
+    "name": "Crate of jewellery",
+    "highalch": 0
+  },
+  "32643": {
+    "name": "Crate of kebbit fur",
+    "highalch": 0
+  },
+  "32644": {
+    "name": "Crate of mahogany logs",
+    "highalch": 0
+  },
+  "32645": {
+    "name": "Crate of planks",
+    "highalch": 0
+  },
+  "32646": {
+    "name": "Crate of platebodies",
+    "highalch": 0
+  },
+  "32647": {
+    "name": "Crate of red coral",
+    "highalch": 0
+  },
+  "32648": {
+    "name": "Crate of seeds",
+    "highalch": 0
+  },
+  "32649": {
+    "name": "Crate of wine",
+    "highalch": 0
+  },
+  "32650": {
+    "name": "Crate of antelope fur",
+    "highalch": 0
+  },
+  "32651": {
+    "name": "Crate of berries",
+    "highalch": 0
+  },
+  "32652": {
+    "name": "Crate of bows",
+    "highalch": 0
+  },
+  "32653": {
+    "name": "Crate of coral",
+    "highalch": 0
+  },
+  "32654": {
+    "name": "Crate of fabrics",
+    "highalch": 0
+  },
+  "32655": {
+    "name": "Crate of fish",
+    "highalch": 0
+  },
+  "32656": {
+    "name": "Crate of flax",
+    "highalch": 0
+  },
+  "32657": {
+    "name": "Crate of furs",
+    "highalch": 0
+  },
+  "32658": {
+    "name": "Crate of gems",
+    "highalch": 0
+  },
+  "32659": {
+    "name": "Crate of honey",
+    "highalch": 0
+  },
+  "32660": {
+    "name": "Crate of jewellery",
+    "highalch": 0
+  },
+  "32661": {
+    "name": "Crate of logs",
+    "highalch": 0
+  },
+  "32662": {
+    "name": "Crate of meat",
+    "highalch": 0
+  },
+  "32663": {
+    "name": "Crate of nickel ore",
+    "highalch": 0
+  },
+  "32664": {
+    "name": "Crate of ores",
+    "highalch": 0
+  },
+  "32665": {
+    "name": "Crate of red coral",
+    "highalch": 0
+  },
+  "32666": {
+    "name": "Crate of runes",
+    "highalch": 0
+  },
+  "32667": {
+    "name": "Crate of seeds",
+    "highalch": 0
+  },
+  "32668": {
+    "name": "Crate of silk",
+    "highalch": 0
+  },
+  "32669": {
+    "name": "Crate of silver ore",
+    "highalch": 0
+  },
+  "32670": {
+    "name": "Crate of staffs",
+    "highalch": 0
+  },
+  "32671": {
+    "name": "Crate of teak logs",
+    "highalch": 0
+  },
+  "32672": {
+    "name": "Crate of wine",
+    "highalch": 0
+  },
+  "32673": {
+    "name": "Crate of amulets",
+    "highalch": 0
+  },
+  "32674": {
+    "name": "Crate of beer",
+    "highalch": 0
+  },
+  "32675": {
+    "name": "Crate of books",
+    "highalch": 0
+  },
+  "32676": {
+    "name": "Crate of cacti",
+    "highalch": 0
+  },
+  "32677": {
+    "name": "Crate of camphor logs",
+    "highalch": 0
+  },
+  "32678": {
+    "name": "Crate of coconuts",
+    "highalch": 0
+  },
+  "32679": {
+    "name": "Crate of fish",
+    "highalch": 0
+  },
+  "32680": {
+    "name": "Crate of flax",
+    "highalch": 0
+  },
+  "32681": {
+    "name": "Crate of honey",
+    "highalch": 0
+  },
+  "32682": {
+    "name": "Crate of jewellery",
+    "highalch": 0
+  },
+  "32683": {
+    "name": "Crate of kebabs",
+    "highalch": 0
+  },
+  "32684": {
+    "name": "Crate of logs",
+    "highalch": 0
+  },
+  "32685": {
+    "name": "Crate of nothing sinister",
+    "highalch": 0
+  },
+  "32686": {
+    "name": "Crate of pest remains",
+    "highalch": 0
+  },
+  "32687": {
+    "name": "Crate of red coral",
+    "highalch": 0
+  },
+  "32688": {
+    "name": "Crate of runes",
+    "highalch": 0
+  },
+  "32689": {
+    "name": "Crate of seeds",
+    "highalch": 0
+  },
+  "32690": {
+    "name": "Crate of spices",
+    "highalch": 0
+  },
+  "32691": {
+    "name": "Crate of sunbeam ale",
+    "highalch": 0
+  },
+  "32692": {
+    "name": "Crate of swords",
+    "highalch": 0
+  },
+  "32693": {
+    "name": "Crate of arrowtips",
+    "highalch": 0
+  },
+  "32694": {
+    "name": "Crate of chinchompas",
+    "highalch": 0
+  },
+  "32695": {
+    "name": "Crate of coal",
+    "highalch": 0
+  },
+  "32696": {
+    "name": "Crate of fabrics",
+    "highalch": 0
+  },
+  "32697": {
+    "name": "Crate of fish",
+    "highalch": 0
+  },
+  "32698": {
+    "name": "Crate of fruit",
+    "highalch": 0
+  },
+  "32699": {
+    "name": "Crate of furs",
+    "highalch": 0
+  },
+  "32700": {
+    "name": "Crate of herbs",
+    "highalch": 0
+  },
+  "32701": {
+    "name": "Crate of mithril ore",
+    "highalch": 0
+  },
+  "32702": {
+    "name": "Crate of ores",
+    "highalch": 0
+  },
+  "32703": {
+    "name": "Crate of platebodies",
+    "highalch": 0
+  },
+  "32704": {
+    "name": "Crate of seeds",
+    "highalch": 0
+  },
+  "32705": {
+    "name": "Crate of shields",
+    "highalch": 0
+  },
+  "32706": {
+    "name": "Crate of snakeskin",
+    "highalch": 0
+  },
+  "32707": {
+    "name": "Crate of swords",
+    "highalch": 0
+  },
+  "32708": {
+    "name": "Crate of vegetables",
+    "highalch": 0
+  },
+  "32709": {
+    "name": "Crate of astral runes",
+    "highalch": 0
+  },
+  "32710": {
+    "name": "Crate of books",
+    "highalch": 0
+  },
+  "32711": {
+    "name": "Crate of clothes",
+    "highalch": 0
+  },
+  "32712": {
+    "name": "Crate of fish",
+    "highalch": 0
+  },
+  "32713": {
+    "name": "Crate of halberds",
+    "highalch": 0
+  },
+  "32714": {
+    "name": "Crate of herbs",
+    "highalch": 0
+  },
+  "32715": {
+    "name": "Crate of logs",
+    "highalch": 0
+  },
+  "32716": {
+    "name": "Crate of ores",
+    "highalch": 0
+  },
+  "32717": {
+    "name": "Crate of potions",
+    "highalch": 0
+  },
+  "32718": {
+    "name": "Crate of silk",
+    "highalch": 0
+  },
+  "32719": {
+    "name": "Crate of spices",
+    "highalch": 0
+  },
+  "32720": {
+    "name": "Crate of xerician fabrics",
+    "highalch": 0
+  },
+  "32721": {
+    "name": "Crate of astral runes",
+    "highalch": 0
+  },
+  "32722": {
+    "name": "Crate of battleaxes",
+    "highalch": 0
+  },
+  "32723": {
+    "name": "Crate of coal",
+    "highalch": 0
+  },
+  "32724": {
+    "name": "Crate of fish",
+    "highalch": 0
+  },
+  "32725": {
+    "name": "Crate of furs",
+    "highalch": 0
+  },
+  "32726": {
+    "name": "Crate of granite",
+    "highalch": 0
+  },
+  "32727": {
+    "name": "Crate of herbs",
+    "highalch": 0
+  },
+  "32728": {
+    "name": "Crate of karambwans",
+    "highalch": 0
+  },
+  "32729": {
+    "name": "Crate of ores",
+    "highalch": 0
+  },
+  "32730": {
+    "name": "Crate of protective clothing",
+    "highalch": 0
+  },
+  "32731": {
+    "name": "Crate of runes",
+    "highalch": 0
+  },
+  "32732": {
+    "name": "Crate of ship parts",
+    "highalch": 0
+  },
+  "32733": {
+    "name": "Crate of spices",
+    "highalch": 0
+  },
+  "32734": {
+    "name": "Crate of adamantite ore",
+    "highalch": 0
+  },
+  "32735": {
+    "name": "Crate of beer",
+    "highalch": 0
+  },
+  "32736": {
+    "name": "Crate of dragon bitter",
+    "highalch": 0
+  },
+  "32737": {
+    "name": "Crate of fabrics",
+    "highalch": 0
+  },
+  "32738": {
+    "name": "Crate of fish",
+    "highalch": 0
+  },
+  "32739": {
+    "name": "Crate of halberds",
+    "highalch": 0
+  },
+  "32740": {
+    "name": "Crate of lead ore",
+    "highalch": 0
+  },
+  "32741": {
+    "name": "Crate of monkfish",
+    "highalch": 0
+  },
+  "32742": {
+    "name": "Crate of pies",
+    "highalch": 0
+  },
+  "32743": {
+    "name": "Crate of planks",
+    "highalch": 0
+  },
+  "32744": {
+    "name": "Crate of redwood logs",
+    "highalch": 0
+  },
+  "32745": {
+    "name": "Crate of rope",
+    "highalch": 0
+  },
+  "32746": {
+    "name": "Crate of ship parts",
+    "highalch": 0
+  },
+  "32747": {
+    "name": "Crate of teak logs",
+    "highalch": 0
+  },
+  "32748": {
+    "name": "Crate of wine",
+    "highalch": 0
+  },
+  "32749": {
+    "name": "Crate of calquat",
+    "highalch": 0
+  },
+  "32750": {
+    "name": "Crate of cocktails",
+    "highalch": 0
+  },
+  "32751": {
+    "name": "Crate of coral",
+    "highalch": 0
+  },
+  "32752": {
+    "name": "Crate of fish",
+    "highalch": 0
+  },
+  "32753": {
+    "name": "Crate of fishing supplies",
+    "highalch": 0
+  },
+  "32754": {
+    "name": "Crate of javelins",
+    "highalch": 0
+  },
+  "32755": {
+    "name": "Crate of planks",
+    "highalch": 0
+  },
+  "32756": {
+    "name": "Crate of runes",
+    "highalch": 0
+  },
+  "32757": {
+    "name": "Crate of ship parts",
+    "highalch": 0
+  },
+  "32758": {
+    "name": "Crate of beer",
+    "highalch": 0
+  },
+  "32759": {
+    "name": "Crate of fabrics",
+    "highalch": 0
+  },
+  "32760": {
+    "name": "Crate of fish",
+    "highalch": 0
+  },
+  "32761": {
+    "name": "Crate of maces",
+    "highalch": 0
+  },
+  "32762": {
+    "name": "Crate of warhammers",
+    "highalch": 0
+  },
+  "32763": {
+    "name": "Crate of wine",
+    "highalch": 0
+  },
+  "32764": {
+    "name": "Crate of arrowtips",
+    "highalch": 0
+  },
+  "32765": {
+    "name": "Crate of bananas",
+    "highalch": 0
+  },
+  "32766": {
+    "name": "Crate of battleaxes",
+    "highalch": 0
+  },
+  "32767": {
+    "name": "Crate of cacti",
+    "highalch": 0
+  },
+  "32768": {
+    "name": "Crate of coral",
+    "highalch": 0
+  },
+  "32769": {
+    "name": "Crate of gold bars",
+    "highalch": 0
+  },
+  "32770": {
+    "name": "Crate of granite",
+    "highalch": 0
+  },
+  "32771": {
+    "name": "Crate of meat",
+    "highalch": 0
+  },
+  "32772": {
+    "name": "Crate of pineapples",
+    "highalch": 0
+  },
+  "32773": {
+    "name": "Crate of platebodies",
+    "highalch": 0
+  },
+  "32774": {
+    "name": "Crate of rum",
+    "highalch": 0
+  },
+  "32775": {
+    "name": "Crate of sea shells",
+    "highalch": 0
+  },
+  "32776": {
+    "name": "Crate of spices",
+    "highalch": 0
+  },
+  "32777": {
+    "name": "Crate of steel bars",
+    "highalch": 0
+  },
+  "32778": {
+    "name": "Crate of swamp paste",
+    "highalch": 0
+  },
+  "32779": {
+    "name": "Crate of wax",
+    "highalch": 0
+  },
+  "32780": {
+    "name": "Crate of bananas",
+    "highalch": 0
+  },
+  "32781": {
+    "name": "Crate of cacti",
+    "highalch": 0
+  },
+  "32782": {
+    "name": "Crate of gems",
+    "highalch": 0
+  },
+  "32783": {
+    "name": "Crate of javelins",
+    "highalch": 0
+  },
+  "32784": {
+    "name": "Crate of jewellery",
+    "highalch": 0
+  },
+  "32785": {
+    "name": "Crate of leather",
+    "highalch": 0
+  },
+  "32786": {
+    "name": "Crate of meat",
+    "highalch": 0
+  },
+  "32787": {
+    "name": "Crate of nickel ore",
+    "highalch": 0
+  },
+  "32788": {
+    "name": "Crate of pest remains",
+    "highalch": 0
+  },
+  "32789": {
+    "name": "Crate of pineapples",
+    "highalch": 0
+  },
+  "32790": {
+    "name": "Crate of potions",
+    "highalch": 0
+  },
+  "32791": {
+    "name": "Crate of rope",
+    "highalch": 0
+  },
+  "32792": {
+    "name": "Crate of sandstone",
+    "highalch": 0
+  },
+  "32793": {
+    "name": "Crate of shields",
+    "highalch": 0
+  },
+  "32794": {
+    "name": "Crate of coral",
+    "highalch": 0
+  },
+  "32795": {
+    "name": "Crate of dragonhide",
+    "highalch": 0
+  },
+  "32796": {
+    "name": "Crate of granite",
+    "highalch": 0
+  },
+  "32797": {
+    "name": "Crate of herbs",
+    "highalch": 0
+  },
+  "32798": {
+    "name": "Crate of logs",
+    "highalch": 0
+  },
+  "32799": {
+    "name": "Crate of maces",
+    "highalch": 0
+  },
+  "32800": {
+    "name": "Crate of ores",
+    "highalch": 0
+  },
+  "32801": {
+    "name": "Crate of platebodies",
+    "highalch": 0
+  },
+  "32802": {
+    "name": "Crate of potions",
+    "highalch": 0
+  },
+  "32803": {
+    "name": "Crate of runes",
+    "highalch": 0
+  },
+  "32804": {
+    "name": "Crate of seeds",
+    "highalch": 0
+  },
+  "32805": {
+    "name": "Crate of spears",
+    "highalch": 0
+  },
+  "32806": {
+    "name": "Crate of wrath runes",
+    "highalch": 0
+  },
+  "32807": {
+    "name": "Crate of ship parts",
+    "highalch": 0
+  },
+  "32808": {
+    "name": "Crate of looty",
+    "highalch": 0
+  },
+  "32809": {
+    "name": "Bull shark jaw",
+    "highalch": 0
+  },
+  "32810": {
+    "name": "Hammerhead shark jaw",
+    "highalch": 0
+  },
+  "32811": {
+    "name": "Tiger shark jaw",
+    "highalch": 0
+  },
+  "32812": {
+    "name": "Great white shark jaw",
+    "highalch": 0
+  },
+  "32813": {
+    "name": "Narwhal blubber",
+    "highalch": 0
+  },
+  "32814": {
+    "name": "Orca blubber",
+    "highalch": 0
+  },
+  "32815": {
+    "name": "Pygmy kraken tentacle",
+    "highalch": 0
+  },
+  "32816": {
+    "name": "Spined kraken tentacle",
+    "highalch": 0
+  },
+  "32817": {
+    "name": "Armoured kraken tentacle",
+    "highalch": 60
+  },
+  "32818": {
+    "name": "Vampyre kraken tentacle",
+    "highalch": 0
+  },
+  "32819": {
+    "name": "Eagle ray fin",
+    "highalch": 0
+  },
+  "32820": {
+    "name": "Butterfly ray fin",
+    "highalch": 0
+  },
+  "32821": {
+    "name": "Stingray fin",
+    "highalch": 0
+  },
+  "32822": {
+    "name": "Manta ray fin",
+    "highalch": 0
+  },
+  "32823": {
+    "name": "Tern feather",
+    "highalch": 0
+  },
+  "32824": {
+    "name": "Osprey feather",
+    "highalch": 0
+  },
+  "32825": {
+    "name": "Frigatebird feather",
+    "highalch": 0
+  },
+  "32826": {
+    "name": "Albatross feather",
+    "highalch": 60
+  },
+  "32827": {
+    "name": "Mogre mace",
+    "highalch": 0
+  },
+  "32828": {
+    "name": "Bull shark liver",
+    "highalch": 0
+  },
+  "32829": {
+    "name": "Hammerhead shark liver",
+    "highalch": 0
+  },
+  "32830": {
+    "name": "Tiger shark liver",
+    "highalch": 0
+  },
+  "32831": {
+    "name": "Great white shark liver",
+    "highalch": 0
+  },
+  "32832": {
+    "name": "Narwhal tusk",
+    "highalch": 0
+  },
+  "32833": {
+    "name": "Orca teeth",
+    "highalch": 0
+  },
+  "32834": {
+    "name": "Pygmy kraken ink sac",
+    "highalch": 0
+  },
+  "32835": {
+    "name": "Spined kraken ink sac",
+    "highalch": 0
+  },
+  "32836": {
+    "name": "Armoured kraken ink sac",
+    "highalch": 120
+  },
+  "32837": {
+    "name": "Vampyre kraken ink sac",
+    "highalch": 0
+  },
+  "32838": {
+    "name": "Eagle ray skin",
+    "highalch": 0
+  },
+  "32839": {
+    "name": "Butterfly ray skin",
+    "highalch": 0
+  },
+  "32840": {
+    "name": "Stingray skin",
+    "highalch": 0
+  },
+  "32841": {
+    "name": "Manta ray skin",
+    "highalch": 0
+  },
+  "32842": {
+    "name": "Tern beak",
+    "highalch": 0
+  },
+  "32843": {
+    "name": "Osprey beak",
+    "highalch": 0
+  },
+  "32844": {
+    "name": "Frigatebird beak",
+    "highalch": 0
+  },
+  "32845": {
+    "name": "Albatross beak",
+    "highalch": 120
+  },
+  "32846": {
+    "name": "Mogre head",
+    "highalch": 0
+  },
+  "32847": {
+    "name": "Small salvage",
+    "highalch": 120
+  },
+  "32849": {
+    "name": "Fishy salvage",
+    "highalch": 120
+  },
+  "32851": {
+    "name": "Barracuda salvage",
+    "highalch": 120
+  },
+  "32853": {
+    "name": "Large salvage",
+    "highalch": 120
+  },
+  "32855": {
+    "name": "Plundered salvage",
+    "highalch": 120
+  },
+  "32857": {
+    "name": "Martial salvage",
+    "highalch": 120
+  },
+  "32859": {
+    "name": "Fremennik salvage",
+    "highalch": 120
+  },
+  "32861": {
+    "name": "Opulent salvage",
+    "highalch": 120
+  },
+  "32863": {
+    "name": "Rusty locket",
+    "highalch": 0
+  },
+  "32864": {
+    "name": "Mouldy block",
+    "highalch": 0
+  },
+  "32865": {
+    "name": "Dull knife",
+    "highalch": 0
+  },
+  "32866": {
+    "name": "Broken compass",
+    "highalch": 0
+  },
+  "32867": {
+    "name": "Rusty coin",
+    "highalch": 0
+  },
+  "32868": {
+    "name": "Broken sextant",
+    "highalch": 0
+  },
+  "32869": {
+    "name": "Mouldy doll",
+    "highalch": 0
+  },
+  "32870": {
+    "name": "Smashed mirror",
+    "highalch": 0
+  },
+  "32871": {
+    "name": "Antique lamp",
+    "highalch": 0
+  },
+  "32872": {
+    "name": "Antique lamp",
+    "highalch": 0
+  },
+  "32873": {
+    "name": "Antique lamp",
+    "highalch": 0
+  },
+  "32876": {
+    "name": "Aquanite tendon",
+    "highalch": 3000
+  },
+  "32879": {
+    "name": "Aquanite hopper",
+    "highalch": 4800
+  },
+  "32882": {
+    "name": "Reef snake gland",
+    "highalch": 0
+  },
+  "32884": {
+    "name": "Gryphon",
+    "highalch": 0
+  },
+  "32885": {
+    "name": "Aquanite",
+    "highalch": 0
+  },
+  "32886": {
+    "name": "Chain",
+    "highalch": 90
+  },
+  "32889": {
+    "name": "Lead bar",
+    "highalch": 16
+  },
+  "32892": {
+    "name": "Cupronickel bar",
+    "highalch": 16
+  },
+  "32895": {
+    "name": "Coin pouch",
+    "highalch": 0
+  },
+  "32896": {
+    "name": "Villager",
+    "highalch": 0
+  },
+  "32897": {
+    "name": "Pirate",
+    "highalch": 0
+  },
+  "32902": {
+    "name": "Jatoba logs",
+    "highalch": 33
+  },
+  "32904": {
+    "name": "Camphor logs",
+    "highalch": 132
+  },
+  "32907": {
+    "name": "Ironwood logs",
+    "highalch": 216
+  },
+  "32910": {
+    "name": "Rosewood logs",
+    "highalch": 288
+  },
+  "32921": {
+    "name": "Jar of feathers",
+    "highalch": 120000
   }
 }
